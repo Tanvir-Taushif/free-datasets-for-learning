@@ -15,7 +15,7 @@ Here is a description of the available datasets:
 
 | Dataset Name            | Description                                          | Data Type       |
 |-------------------------|------------------------------------------------------|-----------------|
-| **Dhaka Traffic Dataset**| A demo dataset containing traffic data from Dhaka city, following real-life patterns. | CSV, JSON       |
+| **[Dhaka Traffic Dataset](./Dhaka%20Traffic%20Dataset/)**| A demo dataset containing traffic data from Dhaka city, following real-life patterns. | CSV, JSON       |
 | **[Future Dataset Name]**| [Brief description of the dataset]                   | [CSV/Excel/etc.]|
 
 Each dataset is designed to be a useful resource for practicing various data analysis techniques, from basic exploration to advanced machine learning applications.
