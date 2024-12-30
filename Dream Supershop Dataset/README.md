@@ -4,7 +4,7 @@ Welcome to the **Dream Supershop Dataset**! This dataset is designed to simulate
 
 ## Dataset Overview
 
-The **Dream Supershop Dataset** consists of five Excel files that contain information on customers, products, categories, subcategories, and sales. The dataset simulates a real-world retail environment and can be used to practice skills like data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling.
+The **Dream Supershop Dataset** consists of six Excel files that contain information on customers, products, categories, subcategories, and sales. The dataset simulates a real-world retail environment and can be used to practice skills like data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling.
 
 ### **Dataset Files:**
 1. **Dream_Super_Shop_Customer_Data.xlsx**
@@ -51,6 +51,10 @@ The **Dream Supershop Dataset** consists of five Excel files that contain inform
      - Date
      - Branch
      - PaymentMethod
+6. **Calender_lookup_table.xlsx**
+   - Contains date from May 01, 2024 to November 30, 2024
+   - **Fields/Columns:**
+     - Date
 
 ### **Dataset Size:**
 - **Sales Records:** Over 12,000 sales records.
