@@ -82,12 +82,3 @@ This dataset is ideal for:
 ## Dataset License
 
 This dataset is publicly available for educational and non-commercial use. You can use the data for personal projects, analysis, or research. Please credit this repository when using the dataset in your projects.
-
-## Getting Started
-
-To get started with the dataset:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tanvir-Taushif/Dream-Supershop-Dataset.git
-
