@@ -1,0 +1,981 @@
+Date,Day of the Week,Location,Time Group,Vehicle Count,Weather Conditions,Road Type,Congestion Level
+2024-01-08,Monday,Farmgate,Early Morning (5:00 AM – 7:30 AM),107,Sunny,Residential Street,High
+2024-01-08,Monday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),128,Rainy,Commercial Street,High
+2024-01-08,Monday,Farmgate,Midday (10:30 AM – 2:00 PM),312,Rainy,Entry Point,High
+2024-01-08,Monday,Farmgate,Afternoon (2:00 PM – 4:30 PM),266,Rainy,Arterial Road,High
+2024-01-08,Monday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),323,Rainy,Flyover,Medium
+2024-01-08,Monday,Farmgate,Night (8:00 PM – 11:00 PM),363,Rainy,Arterial Road,Low
+2024-01-08,Monday,Farmgate,Late Night (11:00 PM – 5:00 AM),443,Rainy,Arterial Road,Low
+2024-01-08,Monday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),179,Rainy,Arterial Road,Low
+2024-01-08,Monday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),372,Cloudy,Flyover,Low
+2024-01-08,Monday,Mohakhali,Midday (10:30 AM – 2:00 PM),249,Sunny,Highway,Low
+2024-01-08,Monday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),171,Rainy,Highway,Medium
+2024-01-08,Monday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),162,Sunny,Commercial Street,Low
+2024-01-08,Monday,Mohakhali,Night (8:00 PM – 11:00 PM),132,Cloudy,Highway,Medium
+2024-01-08,Monday,Mohakhali,Late Night (11:00 PM – 5:00 AM),462,Sunny,Residential Street,High
+2024-01-08,Monday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),250,Rainy,Flyover,Low
+2024-01-08,Monday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),370,Sunny,Highway,High
+2024-01-08,Monday,Gulshan-2,Midday (10:30 AM – 2:00 PM),193,Sunny,Entry Point,Medium
+2024-01-08,Monday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),463,Sunny,Flyover,High
+2024-01-08,Monday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),303,Rainy,Flyover,Medium
+2024-01-08,Monday,Gulshan-2,Night (8:00 PM – 11:00 PM),295,Cloudy,Residential Street,Low
+2024-01-08,Monday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),214,Cloudy,Flyover,Low
+2024-01-08,Monday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),332,Rainy,Highway,Medium
+2024-01-08,Monday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),156,Rainy,Entry Point,Medium
+2024-01-08,Monday,Jatrabari,Midday (10:30 AM – 2:00 PM),431,Cloudy,Highway,Medium
+2024-01-08,Monday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),399,Sunny,Arterial Road,Medium
+2024-01-08,Monday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),163,Sunny,Highway,Medium
+2024-01-08,Monday,Jatrabari,Night (8:00 PM – 11:00 PM),177,Sunny,Commercial Street,Low
+2024-01-08,Monday,Jatrabari,Late Night (11:00 PM – 5:00 AM),429,Cloudy,Residential Street,High
+2024-01-08,Monday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),309,Rainy,Entry Point,Medium
+2024-01-08,Monday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),318,Sunny,Arterial Road,Low
+2024-01-08,Monday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),184,Cloudy,Arterial Road,High
+2024-01-08,Monday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),482,Sunny,Arterial Road,Low
+2024-01-08,Monday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),242,Cloudy,Commercial Street,High
+2024-01-08,Monday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),458,Cloudy,Flyover,High
+2024-01-08,Monday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),111,Cloudy,Residential Street,Low
+2024-01-08,Monday,Motijheel,Early Morning (5:00 AM – 7:30 AM),105,Rainy,Arterial Road,High
+2024-01-08,Monday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),250,Cloudy,Arterial Road,Medium
+2024-01-08,Monday,Motijheel,Midday (10:30 AM – 2:00 PM),351,Rainy,Residential Street,Medium
+2024-01-08,Monday,Motijheel,Afternoon (2:00 PM – 4:30 PM),243,Cloudy,Arterial Road,Medium
+2024-01-08,Monday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),241,Sunny,Commercial Street,Low
+2024-01-08,Monday,Motijheel,Night (8:00 PM – 11:00 PM),356,Sunny,Flyover,Medium
+2024-01-08,Monday,Motijheel,Late Night (11:00 PM – 5:00 AM),204,Rainy,Residential Street,High
+2024-01-08,Monday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),443,Rainy,Highway,Low
+2024-01-08,Monday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),187,Rainy,Commercial Street,Medium
+2024-01-08,Monday,Shahbagh,Midday (10:30 AM – 2:00 PM),219,Rainy,Flyover,Medium
+2024-01-08,Monday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),306,Rainy,Commercial Street,Low
+2024-01-08,Monday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),480,Cloudy,Arterial Road,High
+2024-01-08,Monday,Shahbagh,Night (8:00 PM – 11:00 PM),268,Cloudy,Flyover,High
+2024-01-08,Monday,Shahbagh,Late Night (11:00 PM – 5:00 AM),242,Cloudy,Flyover,High
+2024-01-08,Monday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),255,Sunny,Commercial Street,Medium
+2024-01-08,Monday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),165,Rainy,Flyover,Low
+2024-01-08,Monday,Mirpur-10,Midday (10:30 AM – 2:00 PM),186,Rainy,Residential Street,High
+2024-01-08,Monday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),301,Rainy,Commercial Street,Medium
+2024-01-08,Monday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),175,Cloudy,Residential Street,Medium
+2024-01-08,Monday,Mirpur-10,Night (8:00 PM – 11:00 PM),236,Sunny,Arterial Road,Low
+2024-01-08,Monday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),488,Cloudy,Highway,Low
+2024-01-08,Monday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),325,Sunny,Flyover,Low
+2024-01-08,Monday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),452,Cloudy,Residential Street,Low
+2024-01-08,Monday,Gabtoli,Midday (10:30 AM – 2:00 PM),272,Cloudy,Flyover,High
+2024-01-08,Monday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),361,Sunny,Entry Point,Low
+2024-01-08,Monday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),436,Sunny,Commercial Street,High
+2024-01-08,Monday,Gabtoli,Night (8:00 PM – 11:00 PM),440,Rainy,Residential Street,High
+2024-01-08,Monday,Gabtoli,Late Night (11:00 PM – 5:00 AM),300,Sunny,Commercial Street,High
+2024-01-08,Monday,Rampura,Early Morning (5:00 AM – 7:30 AM),367,Rainy,Entry Point,Medium
+2024-01-08,Monday,Rampura,Morning Rush (7:30 AM – 10:30 AM),454,Cloudy,Commercial Street,Medium
+2024-01-08,Monday,Rampura,Midday (10:30 AM – 2:00 PM),185,Rainy,Arterial Road,Low
+2024-01-08,Monday,Rampura,Afternoon (2:00 PM – 4:30 PM),101,Rainy,Residential Street,Medium
+2024-01-08,Monday,Rampura,Evening Rush (4:30 PM – 8:00 PM),143,Sunny,Entry Point,Medium
+2024-01-08,Monday,Rampura,Night (8:00 PM – 11:00 PM),210,Cloudy,Residential Street,Low
+2024-01-08,Monday,Rampura,Late Night (11:00 PM – 5:00 AM),494,Cloudy,Entry Point,Medium
+2024-01-08,Monday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),236,Cloudy,Arterial Road,Low
+2024-01-08,Monday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),205,Rainy,Entry Point,Low
+2024-01-08,Monday,Tejgaon,Midday (10:30 AM – 2:00 PM),119,Cloudy,Arterial Road,Medium
+2024-01-08,Monday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),189,Rainy,Arterial Road,Medium
+2024-01-08,Monday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),441,Cloudy,Highway,Low
+2024-01-08,Monday,Tejgaon,Night (8:00 PM – 11:00 PM),435,Rainy,Arterial Road,Low
+2024-01-08,Monday,Tejgaon,Late Night (11:00 PM – 5:00 AM),491,Rainy,Residential Street,Low
+2024-01-08,Monday,New Market,Early Morning (5:00 AM – 7:30 AM),388,Sunny,Residential Street,Low
+2024-01-08,Monday,New Market,Morning Rush (7:30 AM – 10:30 AM),373,Cloudy,Arterial Road,Low
+2024-01-08,Monday,New Market,Midday (10:30 AM – 2:00 PM),174,Rainy,Entry Point,Medium
+2024-01-08,Monday,New Market,Afternoon (2:00 PM – 4:30 PM),299,Rainy,Highway,High
+2024-01-08,Monday,New Market,Evening Rush (4:30 PM – 8:00 PM),118,Rainy,Arterial Road,Medium
+2024-01-08,Monday,New Market,Night (8:00 PM – 11:00 PM),312,Sunny,Highway,Low
+2024-01-08,Monday,New Market,Late Night (11:00 PM – 5:00 AM),461,Rainy,Highway,High
+2024-01-08,Monday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),404,Rainy,Residential Street,Low
+2024-01-08,Monday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),452,Cloudy,Arterial Road,Medium
+2024-01-08,Monday,Dhanmondi,Midday (10:30 AM – 2:00 PM),421,Rainy,Residential Street,High
+2024-01-08,Monday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),272,Sunny,Commercial Street,Medium
+2024-01-08,Monday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),368,Sunny,Residential Street,Low
+2024-01-08,Monday,Dhanmondi,Night (8:00 PM – 11:00 PM),351,Cloudy,Entry Point,Medium
+2024-01-08,Monday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),356,Sunny,Highway,High
+2024-01-08,Monday,Paltan,Early Morning (5:00 AM – 7:30 AM),168,Sunny,Commercial Street,High
+2024-01-08,Monday,Paltan,Morning Rush (7:30 AM – 10:30 AM),463,Cloudy,Entry Point,High
+2024-01-08,Monday,Paltan,Midday (10:30 AM – 2:00 PM),224,Rainy,Entry Point,Low
+2024-01-08,Monday,Paltan,Afternoon (2:00 PM – 4:30 PM),214,Sunny,Residential Street,High
+2024-01-08,Monday,Paltan,Evening Rush (4:30 PM – 8:00 PM),285,Sunny,Entry Point,High
+2024-01-08,Monday,Paltan,Night (8:00 PM – 11:00 PM),378,Cloudy,Residential Street,High
+2024-01-08,Monday,Paltan,Late Night (11:00 PM – 5:00 AM),179,Sunny,Residential Street,Medium
+2024-01-08,Monday,Malibagh,Early Morning (5:00 AM – 7:30 AM),272,Rainy,Flyover,Medium
+2024-01-08,Monday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),225,Rainy,Commercial Street,High
+2024-01-08,Monday,Malibagh,Midday (10:30 AM – 2:00 PM),119,Rainy,Residential Street,High
+2024-01-08,Monday,Malibagh,Afternoon (2:00 PM – 4:30 PM),140,Sunny,Flyover,Medium
+2024-01-08,Monday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),285,Cloudy,Flyover,Medium
+2024-01-08,Monday,Malibagh,Night (8:00 PM – 11:00 PM),260,Cloudy,Flyover,Medium
+2024-01-08,Monday,Malibagh,Late Night (11:00 PM – 5:00 AM),326,Sunny,Flyover,Low
+2024-01-08,Monday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),152,Cloudy,Entry Point,Medium
+2024-01-08,Monday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),175,Sunny,Residential Street,High
+2024-01-08,Monday,Keraniganj,Midday (10:30 AM – 2:00 PM),168,Cloudy,Commercial Street,Low
+2024-01-08,Monday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),387,Sunny,Residential Street,Medium
+2024-01-08,Monday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),362,Sunny,Residential Street,Medium
+2024-01-08,Monday,Keraniganj,Night (8:00 PM – 11:00 PM),424,Rainy,Flyover,Low
+2024-01-08,Monday,Keraniganj,Late Night (11:00 PM – 5:00 AM),436,Sunny,Commercial Street,Medium
+2024-01-08,Monday,Tongi,Early Morning (5:00 AM – 7:30 AM),422,Sunny,Highway,Medium
+2024-01-08,Monday,Tongi,Morning Rush (7:30 AM – 10:30 AM),175,Rainy,Highway,High
+2024-01-08,Monday,Tongi,Midday (10:30 AM – 2:00 PM),318,Cloudy,Residential Street,Low
+2024-01-08,Monday,Tongi,Afternoon (2:00 PM – 4:30 PM),237,Rainy,Flyover,Medium
+2024-01-08,Monday,Tongi,Evening Rush (4:30 PM – 8:00 PM),265,Sunny,Highway,Medium
+2024-01-08,Monday,Tongi,Night (8:00 PM – 11:00 PM),396,Cloudy,Highway,Medium
+2024-01-08,Monday,Tongi,Late Night (11:00 PM – 5:00 AM),393,Sunny,Flyover,Medium
+2024-01-08,Monday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),279,Sunny,Commercial Street,High
+2024-01-08,Monday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),317,Rainy,Highway,High
+2024-01-08,Monday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),304,Sunny,Highway,High
+2024-01-08,Monday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),414,Rainy,Entry Point,High
+2024-01-08,Monday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),296,Rainy,Entry Point,Low
+2024-01-08,Monday,Savar Entry Point,Night (8:00 PM – 11:00 PM),388,Rainy,Residential Street,Low
+2024-01-08,Monday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),343,Sunny,Commercial Street,Low
+2024-01-08,Monday,Ashulia,Early Morning (5:00 AM – 7:30 AM),484,Cloudy,Residential Street,High
+2024-01-08,Monday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),394,Rainy,Residential Street,High
+2024-01-08,Monday,Ashulia,Midday (10:30 AM – 2:00 PM),396,Rainy,Arterial Road,Medium
+2024-01-08,Monday,Ashulia,Afternoon (2:00 PM – 4:30 PM),470,Rainy,Arterial Road,High
+2024-01-08,Monday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),202,Cloudy,Flyover,Medium
+2024-01-08,Monday,Ashulia,Night (8:00 PM – 11:00 PM),284,Sunny,Arterial Road,Medium
+2024-01-08,Monday,Ashulia,Late Night (11:00 PM – 5:00 AM),252,Sunny,Commercial Street,Medium
+2024-01-08,Monday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),434,Rainy,Flyover,Medium
+2024-01-08,Monday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),252,Rainy,Flyover,High
+2024-01-08,Monday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),450,Sunny,Entry Point,Medium
+2024-01-08,Monday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),477,Sunny,Residential Street,Low
+2024-01-08,Monday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),444,Rainy,Highway,Medium
+2024-01-08,Monday,Pragati Sarani,Night (8:00 PM – 11:00 PM),315,Rainy,Arterial Road,High
+2024-01-08,Monday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),238,Cloudy,Arterial Road,Medium
+2024-01-09,Tuesday,Farmgate,Early Morning (5:00 AM – 7:30 AM),339,Rainy,Entry Point,High
+2024-01-09,Tuesday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),446,Rainy,Commercial Street,Medium
+2024-01-09,Tuesday,Farmgate,Midday (10:30 AM – 2:00 PM),403,Cloudy,Highway,Medium
+2024-01-09,Tuesday,Farmgate,Afternoon (2:00 PM – 4:30 PM),456,Cloudy,Arterial Road,Medium
+2024-01-09,Tuesday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),220,Cloudy,Arterial Road,Medium
+2024-01-09,Tuesday,Farmgate,Night (8:00 PM – 11:00 PM),444,Rainy,Arterial Road,High
+2024-01-09,Tuesday,Farmgate,Late Night (11:00 PM – 5:00 AM),221,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),459,Rainy,Residential Street,High
+2024-01-09,Tuesday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),203,Rainy,Flyover,High
+2024-01-09,Tuesday,Mohakhali,Midday (10:30 AM – 2:00 PM),161,Cloudy,Residential Street,Low
+2024-01-09,Tuesday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),114,Rainy,Commercial Street,Medium
+2024-01-09,Tuesday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),216,Cloudy,Arterial Road,High
+2024-01-09,Tuesday,Mohakhali,Night (8:00 PM – 11:00 PM),126,Sunny,Entry Point,High
+2024-01-09,Tuesday,Mohakhali,Late Night (11:00 PM – 5:00 AM),275,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),383,Rainy,Entry Point,High
+2024-01-09,Tuesday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),374,Cloudy,Highway,Low
+2024-01-09,Tuesday,Gulshan-2,Midday (10:30 AM – 2:00 PM),442,Rainy,Entry Point,High
+2024-01-09,Tuesday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),101,Rainy,Entry Point,High
+2024-01-09,Tuesday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),405,Sunny,Flyover,Medium
+2024-01-09,Tuesday,Gulshan-2,Night (8:00 PM – 11:00 PM),372,Cloudy,Highway,High
+2024-01-09,Tuesday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),442,Cloudy,Flyover,High
+2024-01-09,Tuesday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),270,Sunny,Residential Street,High
+2024-01-09,Tuesday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),124,Sunny,Residential Street,Medium
+2024-01-09,Tuesday,Jatrabari,Midday (10:30 AM – 2:00 PM),388,Rainy,Entry Point,High
+2024-01-09,Tuesday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),287,Cloudy,Commercial Street,High
+2024-01-09,Tuesday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),472,Rainy,Flyover,Medium
+2024-01-09,Tuesday,Jatrabari,Night (8:00 PM – 11:00 PM),126,Cloudy,Flyover,Low
+2024-01-09,Tuesday,Jatrabari,Late Night (11:00 PM – 5:00 AM),321,Rainy,Commercial Street,Medium
+2024-01-09,Tuesday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),419,Sunny,Arterial Road,High
+2024-01-09,Tuesday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),166,Sunny,Commercial Street,Low
+2024-01-09,Tuesday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),314,Rainy,Highway,Medium
+2024-01-09,Tuesday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),339,Cloudy,Residential Street,Low
+2024-01-09,Tuesday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),146,Rainy,Highway,High
+2024-01-09,Tuesday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),186,Cloudy,Flyover,High
+2024-01-09,Tuesday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),233,Cloudy,Flyover,High
+2024-01-09,Tuesday,Motijheel,Early Morning (5:00 AM – 7:30 AM),437,Sunny,Residential Street,Low
+2024-01-09,Tuesday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),400,Cloudy,Commercial Street,High
+2024-01-09,Tuesday,Motijheel,Midday (10:30 AM – 2:00 PM),497,Sunny,Arterial Road,Medium
+2024-01-09,Tuesday,Motijheel,Afternoon (2:00 PM – 4:30 PM),277,Sunny,Residential Street,Medium
+2024-01-09,Tuesday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),289,Sunny,Entry Point,Low
+2024-01-09,Tuesday,Motijheel,Night (8:00 PM – 11:00 PM),186,Cloudy,Residential Street,Medium
+2024-01-09,Tuesday,Motijheel,Late Night (11:00 PM – 5:00 AM),197,Cloudy,Commercial Street,Low
+2024-01-09,Tuesday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),115,Sunny,Entry Point,High
+2024-01-09,Tuesday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),182,Sunny,Highway,High
+2024-01-09,Tuesday,Shahbagh,Midday (10:30 AM – 2:00 PM),371,Rainy,Residential Street,Low
+2024-01-09,Tuesday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),415,Sunny,Highway,Medium
+2024-01-09,Tuesday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),254,Cloudy,Flyover,Low
+2024-01-09,Tuesday,Shahbagh,Night (8:00 PM – 11:00 PM),462,Cloudy,Highway,Medium
+2024-01-09,Tuesday,Shahbagh,Late Night (11:00 PM – 5:00 AM),409,Rainy,Arterial Road,High
+2024-01-09,Tuesday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),311,Rainy,Arterial Road,Medium
+2024-01-09,Tuesday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),202,Cloudy,Entry Point,Low
+2024-01-09,Tuesday,Mirpur-10,Midday (10:30 AM – 2:00 PM),199,Cloudy,Entry Point,Low
+2024-01-09,Tuesday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),191,Cloudy,Commercial Street,High
+2024-01-09,Tuesday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),394,Sunny,Highway,Low
+2024-01-09,Tuesday,Mirpur-10,Night (8:00 PM – 11:00 PM),181,Sunny,Residential Street,Low
+2024-01-09,Tuesday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),454,Cloudy,Flyover,Medium
+2024-01-09,Tuesday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),287,Sunny,Residential Street,High
+2024-01-09,Tuesday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),163,Sunny,Commercial Street,Low
+2024-01-09,Tuesday,Gabtoli,Midday (10:30 AM – 2:00 PM),166,Sunny,Arterial Road,High
+2024-01-09,Tuesday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),166,Rainy,Entry Point,Medium
+2024-01-09,Tuesday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),252,Sunny,Residential Street,Medium
+2024-01-09,Tuesday,Gabtoli,Night (8:00 PM – 11:00 PM),315,Rainy,Highway,Low
+2024-01-09,Tuesday,Gabtoli,Late Night (11:00 PM – 5:00 AM),368,Rainy,Flyover,Medium
+2024-01-09,Tuesday,Rampura,Early Morning (5:00 AM – 7:30 AM),498,Sunny,Entry Point,Medium
+2024-01-09,Tuesday,Rampura,Morning Rush (7:30 AM – 10:30 AM),362,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Rampura,Midday (10:30 AM – 2:00 PM),405,Sunny,Residential Street,Medium
+2024-01-09,Tuesday,Rampura,Afternoon (2:00 PM – 4:30 PM),386,Sunny,Residential Street,Low
+2024-01-09,Tuesday,Rampura,Evening Rush (4:30 PM – 8:00 PM),424,Cloudy,Flyover,High
+2024-01-09,Tuesday,Rampura,Night (8:00 PM – 11:00 PM),458,Cloudy,Highway,High
+2024-01-09,Tuesday,Rampura,Late Night (11:00 PM – 5:00 AM),337,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),180,Rainy,Arterial Road,Low
+2024-01-09,Tuesday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),158,Sunny,Commercial Street,High
+2024-01-09,Tuesday,Tejgaon,Midday (10:30 AM – 2:00 PM),360,Cloudy,Entry Point,Medium
+2024-01-09,Tuesday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),170,Cloudy,Entry Point,Low
+2024-01-09,Tuesday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),130,Sunny,Flyover,Low
+2024-01-09,Tuesday,Tejgaon,Night (8:00 PM – 11:00 PM),198,Cloudy,Residential Street,High
+2024-01-09,Tuesday,Tejgaon,Late Night (11:00 PM – 5:00 AM),270,Cloudy,Highway,Low
+2024-01-09,Tuesday,New Market,Early Morning (5:00 AM – 7:30 AM),144,Sunny,Residential Street,Low
+2024-01-09,Tuesday,New Market,Morning Rush (7:30 AM – 10:30 AM),301,Cloudy,Entry Point,Low
+2024-01-09,Tuesday,New Market,Midday (10:30 AM – 2:00 PM),290,Rainy,Flyover,Medium
+2024-01-09,Tuesday,New Market,Afternoon (2:00 PM – 4:30 PM),135,Sunny,Arterial Road,Low
+2024-01-09,Tuesday,New Market,Evening Rush (4:30 PM – 8:00 PM),482,Sunny,Entry Point,High
+2024-01-09,Tuesday,New Market,Night (8:00 PM – 11:00 PM),274,Rainy,Entry Point,High
+2024-01-09,Tuesday,New Market,Late Night (11:00 PM – 5:00 AM),190,Sunny,Arterial Road,High
+2024-01-09,Tuesday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),384,Rainy,Residential Street,Low
+2024-01-09,Tuesday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),398,Sunny,Arterial Road,Medium
+2024-01-09,Tuesday,Dhanmondi,Midday (10:30 AM – 2:00 PM),109,Sunny,Arterial Road,High
+2024-01-09,Tuesday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),452,Rainy,Residential Street,Medium
+2024-01-09,Tuesday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),467,Sunny,Entry Point,Medium
+2024-01-09,Tuesday,Dhanmondi,Night (8:00 PM – 11:00 PM),276,Sunny,Residential Street,High
+2024-01-09,Tuesday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),398,Cloudy,Entry Point,Medium
+2024-01-09,Tuesday,Paltan,Early Morning (5:00 AM – 7:30 AM),414,Cloudy,Residential Street,Low
+2024-01-09,Tuesday,Paltan,Morning Rush (7:30 AM – 10:30 AM),460,Sunny,Highway,Medium
+2024-01-09,Tuesday,Paltan,Midday (10:30 AM – 2:00 PM),383,Rainy,Flyover,Medium
+2024-01-09,Tuesday,Paltan,Afternoon (2:00 PM – 4:30 PM),293,Rainy,Highway,Low
+2024-01-09,Tuesday,Paltan,Evening Rush (4:30 PM – 8:00 PM),237,Sunny,Commercial Street,Medium
+2024-01-09,Tuesday,Paltan,Night (8:00 PM – 11:00 PM),257,Sunny,Flyover,Low
+2024-01-09,Tuesday,Paltan,Late Night (11:00 PM – 5:00 AM),372,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Malibagh,Early Morning (5:00 AM – 7:30 AM),175,Sunny,Highway,Low
+2024-01-09,Tuesday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),157,Sunny,Entry Point,High
+2024-01-09,Tuesday,Malibagh,Midday (10:30 AM – 2:00 PM),347,Cloudy,Arterial Road,Low
+2024-01-09,Tuesday,Malibagh,Afternoon (2:00 PM – 4:30 PM),223,Rainy,Highway,Medium
+2024-01-09,Tuesday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),330,Cloudy,Flyover,High
+2024-01-09,Tuesday,Malibagh,Night (8:00 PM – 11:00 PM),398,Cloudy,Commercial Street,Medium
+2024-01-09,Tuesday,Malibagh,Late Night (11:00 PM – 5:00 AM),499,Rainy,Residential Street,Low
+2024-01-09,Tuesday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),315,Cloudy,Entry Point,Medium
+2024-01-09,Tuesday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),448,Cloudy,Arterial Road,Medium
+2024-01-09,Tuesday,Keraniganj,Midday (10:30 AM – 2:00 PM),359,Sunny,Highway,Low
+2024-01-09,Tuesday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),173,Cloudy,Residential Street,Medium
+2024-01-09,Tuesday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),196,Sunny,Arterial Road,Medium
+2024-01-09,Tuesday,Keraniganj,Night (8:00 PM – 11:00 PM),227,Cloudy,Arterial Road,Medium
+2024-01-09,Tuesday,Keraniganj,Late Night (11:00 PM – 5:00 AM),372,Sunny,Entry Point,Low
+2024-01-09,Tuesday,Tongi,Early Morning (5:00 AM – 7:30 AM),493,Cloudy,Entry Point,High
+2024-01-09,Tuesday,Tongi,Morning Rush (7:30 AM – 10:30 AM),398,Sunny,Commercial Street,Medium
+2024-01-09,Tuesday,Tongi,Midday (10:30 AM – 2:00 PM),424,Rainy,Arterial Road,Low
+2024-01-09,Tuesday,Tongi,Afternoon (2:00 PM – 4:30 PM),278,Sunny,Commercial Street,High
+2024-01-09,Tuesday,Tongi,Evening Rush (4:30 PM – 8:00 PM),359,Rainy,Residential Street,Low
+2024-01-09,Tuesday,Tongi,Night (8:00 PM – 11:00 PM),405,Cloudy,Flyover,Medium
+2024-01-09,Tuesday,Tongi,Late Night (11:00 PM – 5:00 AM),328,Cloudy,Entry Point,Low
+2024-01-09,Tuesday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),263,Cloudy,Highway,High
+2024-01-09,Tuesday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),256,Cloudy,Commercial Street,High
+2024-01-09,Tuesday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),193,Rainy,Flyover,High
+2024-01-09,Tuesday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),235,Sunny,Residential Street,Medium
+2024-01-09,Tuesday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),468,Cloudy,Highway,Medium
+2024-01-09,Tuesday,Savar Entry Point,Night (8:00 PM – 11:00 PM),500,Cloudy,Highway,Medium
+2024-01-09,Tuesday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),384,Sunny,Entry Point,Low
+2024-01-09,Tuesday,Ashulia,Early Morning (5:00 AM – 7:30 AM),365,Rainy,Commercial Street,Medium
+2024-01-09,Tuesday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),116,Cloudy,Flyover,Low
+2024-01-09,Tuesday,Ashulia,Midday (10:30 AM – 2:00 PM),208,Cloudy,Arterial Road,Low
+2024-01-09,Tuesday,Ashulia,Afternoon (2:00 PM – 4:30 PM),481,Cloudy,Entry Point,Medium
+2024-01-09,Tuesday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),397,Sunny,Commercial Street,Medium
+2024-01-09,Tuesday,Ashulia,Night (8:00 PM – 11:00 PM),388,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Ashulia,Late Night (11:00 PM – 5:00 AM),369,Sunny,Arterial Road,Medium
+2024-01-09,Tuesday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),444,Cloudy,Residential Street,Low
+2024-01-09,Tuesday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),272,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),452,Cloudy,Residential Street,High
+2024-01-09,Tuesday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),381,Rainy,Commercial Street,High
+2024-01-09,Tuesday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),375,Cloudy,Entry Point,High
+2024-01-09,Tuesday,Pragati Sarani,Night (8:00 PM – 11:00 PM),407,Sunny,Commercial Street,Medium
+2024-01-09,Tuesday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),207,Rainy,Entry Point,High
+2024-01-10,Wednesday,Farmgate,Early Morning (5:00 AM – 7:30 AM),267,Rainy,Entry Point,High
+2024-01-10,Wednesday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),420,Cloudy,Commercial Street,High
+2024-01-10,Wednesday,Farmgate,Midday (10:30 AM – 2:00 PM),491,Sunny,Entry Point,High
+2024-01-10,Wednesday,Farmgate,Afternoon (2:00 PM – 4:30 PM),355,Rainy,Commercial Street,High
+2024-01-10,Wednesday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),409,Rainy,Commercial Street,High
+2024-01-10,Wednesday,Farmgate,Night (8:00 PM – 11:00 PM),107,Cloudy,Arterial Road,Medium
+2024-01-10,Wednesday,Farmgate,Late Night (11:00 PM – 5:00 AM),111,Sunny,Entry Point,Low
+2024-01-10,Wednesday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),195,Cloudy,Arterial Road,Medium
+2024-01-10,Wednesday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),190,Rainy,Commercial Street,High
+2024-01-10,Wednesday,Mohakhali,Midday (10:30 AM – 2:00 PM),206,Cloudy,Entry Point,Medium
+2024-01-10,Wednesday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),431,Sunny,Flyover,Medium
+2024-01-10,Wednesday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),464,Rainy,Arterial Road,High
+2024-01-10,Wednesday,Mohakhali,Night (8:00 PM – 11:00 PM),147,Sunny,Flyover,Medium
+2024-01-10,Wednesday,Mohakhali,Late Night (11:00 PM – 5:00 AM),207,Rainy,Entry Point,Low
+2024-01-10,Wednesday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),312,Rainy,Arterial Road,High
+2024-01-10,Wednesday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),322,Rainy,Entry Point,Medium
+2024-01-10,Wednesday,Gulshan-2,Midday (10:30 AM – 2:00 PM),423,Cloudy,Arterial Road,Low
+2024-01-10,Wednesday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),471,Rainy,Arterial Road,Medium
+2024-01-10,Wednesday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),287,Sunny,Flyover,Low
+2024-01-10,Wednesday,Gulshan-2,Night (8:00 PM – 11:00 PM),468,Cloudy,Residential Street,Low
+2024-01-10,Wednesday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),366,Rainy,Residential Street,Low
+2024-01-10,Wednesday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),348,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),233,Cloudy,Flyover,High
+2024-01-10,Wednesday,Jatrabari,Midday (10:30 AM – 2:00 PM),378,Cloudy,Commercial Street,Low
+2024-01-10,Wednesday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),245,Sunny,Residential Street,Low
+2024-01-10,Wednesday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),441,Sunny,Commercial Street,High
+2024-01-10,Wednesday,Jatrabari,Night (8:00 PM – 11:00 PM),428,Rainy,Entry Point,Low
+2024-01-10,Wednesday,Jatrabari,Late Night (11:00 PM – 5:00 AM),482,Sunny,Highway,Medium
+2024-01-10,Wednesday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),181,Cloudy,Entry Point,High
+2024-01-10,Wednesday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),197,Rainy,Arterial Road,Low
+2024-01-10,Wednesday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),379,Cloudy,Commercial Street,Low
+2024-01-10,Wednesday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),232,Sunny,Residential Street,Low
+2024-01-10,Wednesday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),259,Cloudy,Arterial Road,High
+2024-01-10,Wednesday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),205,Cloudy,Arterial Road,High
+2024-01-10,Wednesday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),411,Sunny,Flyover,Low
+2024-01-10,Wednesday,Motijheel,Early Morning (5:00 AM – 7:30 AM),162,Cloudy,Entry Point,Medium
+2024-01-10,Wednesday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),481,Sunny,Residential Street,Medium
+2024-01-10,Wednesday,Motijheel,Midday (10:30 AM – 2:00 PM),244,Rainy,Entry Point,Medium
+2024-01-10,Wednesday,Motijheel,Afternoon (2:00 PM – 4:30 PM),141,Sunny,Highway,High
+2024-01-10,Wednesday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),232,Cloudy,Residential Street,High
+2024-01-10,Wednesday,Motijheel,Night (8:00 PM – 11:00 PM),487,Rainy,Residential Street,High
+2024-01-10,Wednesday,Motijheel,Late Night (11:00 PM – 5:00 AM),492,Cloudy,Residential Street,Medium
+2024-01-10,Wednesday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),347,Cloudy,Residential Street,High
+2024-01-10,Wednesday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),312,Sunny,Residential Street,Low
+2024-01-10,Wednesday,Shahbagh,Midday (10:30 AM – 2:00 PM),389,Cloudy,Residential Street,High
+2024-01-10,Wednesday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),147,Cloudy,Flyover,High
+2024-01-10,Wednesday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),492,Sunny,Flyover,Low
+2024-01-10,Wednesday,Shahbagh,Night (8:00 PM – 11:00 PM),387,Rainy,Arterial Road,High
+2024-01-10,Wednesday,Shahbagh,Late Night (11:00 PM – 5:00 AM),257,Rainy,Flyover,High
+2024-01-10,Wednesday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),346,Rainy,Highway,Low
+2024-01-10,Wednesday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),497,Rainy,Residential Street,Low
+2024-01-10,Wednesday,Mirpur-10,Midday (10:30 AM – 2:00 PM),226,Cloudy,Highway,Medium
+2024-01-10,Wednesday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),333,Rainy,Highway,Medium
+2024-01-10,Wednesday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),290,Rainy,Flyover,Low
+2024-01-10,Wednesday,Mirpur-10,Night (8:00 PM – 11:00 PM),270,Sunny,Entry Point,Low
+2024-01-10,Wednesday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),157,Rainy,Flyover,Medium
+2024-01-10,Wednesday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),181,Sunny,Commercial Street,Medium
+2024-01-10,Wednesday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),462,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Gabtoli,Midday (10:30 AM – 2:00 PM),290,Rainy,Arterial Road,Medium
+2024-01-10,Wednesday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),223,Cloudy,Residential Street,High
+2024-01-10,Wednesday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),262,Rainy,Residential Street,Low
+2024-01-10,Wednesday,Gabtoli,Night (8:00 PM – 11:00 PM),196,Rainy,Flyover,Low
+2024-01-10,Wednesday,Gabtoli,Late Night (11:00 PM – 5:00 AM),438,Sunny,Commercial Street,Low
+2024-01-10,Wednesday,Rampura,Early Morning (5:00 AM – 7:30 AM),239,Sunny,Arterial Road,Medium
+2024-01-10,Wednesday,Rampura,Morning Rush (7:30 AM – 10:30 AM),124,Rainy,Entry Point,High
+2024-01-10,Wednesday,Rampura,Midday (10:30 AM – 2:00 PM),154,Rainy,Flyover,Low
+2024-01-10,Wednesday,Rampura,Afternoon (2:00 PM – 4:30 PM),358,Sunny,Arterial Road,High
+2024-01-10,Wednesday,Rampura,Evening Rush (4:30 PM – 8:00 PM),393,Sunny,Commercial Street,Low
+2024-01-10,Wednesday,Rampura,Night (8:00 PM – 11:00 PM),249,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Rampura,Late Night (11:00 PM – 5:00 AM),485,Cloudy,Flyover,Medium
+2024-01-10,Wednesday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),189,Rainy,Flyover,Medium
+2024-01-10,Wednesday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),255,Rainy,Highway,High
+2024-01-10,Wednesday,Tejgaon,Midday (10:30 AM – 2:00 PM),497,Sunny,Arterial Road,Low
+2024-01-10,Wednesday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),457,Cloudy,Commercial Street,Medium
+2024-01-10,Wednesday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),380,Rainy,Arterial Road,Low
+2024-01-10,Wednesday,Tejgaon,Night (8:00 PM – 11:00 PM),200,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Tejgaon,Late Night (11:00 PM – 5:00 AM),327,Sunny,Arterial Road,High
+2024-01-10,Wednesday,New Market,Early Morning (5:00 AM – 7:30 AM),409,Cloudy,Residential Street,Low
+2024-01-10,Wednesday,New Market,Morning Rush (7:30 AM – 10:30 AM),155,Sunny,Highway,High
+2024-01-10,Wednesday,New Market,Midday (10:30 AM – 2:00 PM),346,Sunny,Flyover,Low
+2024-01-10,Wednesday,New Market,Afternoon (2:00 PM – 4:30 PM),350,Cloudy,Flyover,High
+2024-01-10,Wednesday,New Market,Evening Rush (4:30 PM – 8:00 PM),449,Cloudy,Arterial Road,Medium
+2024-01-10,Wednesday,New Market,Night (8:00 PM – 11:00 PM),431,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,New Market,Late Night (11:00 PM – 5:00 AM),140,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),277,Sunny,Flyover,Medium
+2024-01-10,Wednesday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),424,Rainy,Entry Point,Low
+2024-01-10,Wednesday,Dhanmondi,Midday (10:30 AM – 2:00 PM),463,Cloudy,Flyover,Low
+2024-01-10,Wednesday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),191,Rainy,Highway,High
+2024-01-10,Wednesday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),484,Rainy,Commercial Street,High
+2024-01-10,Wednesday,Dhanmondi,Night (8:00 PM – 11:00 PM),282,Rainy,Residential Street,Low
+2024-01-10,Wednesday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),290,Cloudy,Residential Street,Low
+2024-01-10,Wednesday,Paltan,Early Morning (5:00 AM – 7:30 AM),111,Rainy,Entry Point,High
+2024-01-10,Wednesday,Paltan,Morning Rush (7:30 AM – 10:30 AM),256,Sunny,Residential Street,Medium
+2024-01-10,Wednesday,Paltan,Midday (10:30 AM – 2:00 PM),158,Cloudy,Highway,Low
+2024-01-10,Wednesday,Paltan,Afternoon (2:00 PM – 4:30 PM),301,Sunny,Entry Point,Low
+2024-01-10,Wednesday,Paltan,Evening Rush (4:30 PM – 8:00 PM),447,Sunny,Entry Point,Medium
+2024-01-10,Wednesday,Paltan,Night (8:00 PM – 11:00 PM),495,Rainy,Commercial Street,Low
+2024-01-10,Wednesday,Paltan,Late Night (11:00 PM – 5:00 AM),161,Rainy,Flyover,High
+2024-01-10,Wednesday,Malibagh,Early Morning (5:00 AM – 7:30 AM),350,Rainy,Arterial Road,High
+2024-01-10,Wednesday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),354,Rainy,Residential Street,High
+2024-01-10,Wednesday,Malibagh,Midday (10:30 AM – 2:00 PM),316,Rainy,Entry Point,Low
+2024-01-10,Wednesday,Malibagh,Afternoon (2:00 PM – 4:30 PM),357,Sunny,Arterial Road,Medium
+2024-01-10,Wednesday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),478,Sunny,Flyover,Medium
+2024-01-10,Wednesday,Malibagh,Night (8:00 PM – 11:00 PM),451,Cloudy,Residential Street,Medium
+2024-01-10,Wednesday,Malibagh,Late Night (11:00 PM – 5:00 AM),216,Cloudy,Highway,Low
+2024-01-10,Wednesday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),453,Sunny,Flyover,High
+2024-01-10,Wednesday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),273,Rainy,Highway,High
+2024-01-10,Wednesday,Keraniganj,Midday (10:30 AM – 2:00 PM),340,Rainy,Highway,High
+2024-01-10,Wednesday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),170,Cloudy,Flyover,Low
+2024-01-10,Wednesday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),326,Sunny,Entry Point,Low
+2024-01-10,Wednesday,Keraniganj,Night (8:00 PM – 11:00 PM),312,Rainy,Entry Point,High
+2024-01-10,Wednesday,Keraniganj,Late Night (11:00 PM – 5:00 AM),488,Rainy,Residential Street,Low
+2024-01-10,Wednesday,Tongi,Early Morning (5:00 AM – 7:30 AM),279,Cloudy,Highway,Low
+2024-01-10,Wednesday,Tongi,Morning Rush (7:30 AM – 10:30 AM),365,Sunny,Residential Street,Low
+2024-01-10,Wednesday,Tongi,Midday (10:30 AM – 2:00 PM),425,Sunny,Highway,High
+2024-01-10,Wednesday,Tongi,Afternoon (2:00 PM – 4:30 PM),188,Rainy,Residential Street,High
+2024-01-10,Wednesday,Tongi,Evening Rush (4:30 PM – 8:00 PM),391,Rainy,Arterial Road,High
+2024-01-10,Wednesday,Tongi,Night (8:00 PM – 11:00 PM),272,Sunny,Commercial Street,Medium
+2024-01-10,Wednesday,Tongi,Late Night (11:00 PM – 5:00 AM),429,Sunny,Arterial Road,Medium
+2024-01-10,Wednesday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),447,Cloudy,Arterial Road,Medium
+2024-01-10,Wednesday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),452,Rainy,Entry Point,Low
+2024-01-10,Wednesday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),344,Cloudy,Flyover,Medium
+2024-01-10,Wednesday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),258,Sunny,Commercial Street,High
+2024-01-10,Wednesday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),389,Cloudy,Commercial Street,High
+2024-01-10,Wednesday,Savar Entry Point,Night (8:00 PM – 11:00 PM),157,Cloudy,Highway,Low
+2024-01-10,Wednesday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),250,Rainy,Arterial Road,Low
+2024-01-10,Wednesday,Ashulia,Early Morning (5:00 AM – 7:30 AM),249,Cloudy,Arterial Road,Low
+2024-01-10,Wednesday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),219,Cloudy,Entry Point,Medium
+2024-01-10,Wednesday,Ashulia,Midday (10:30 AM – 2:00 PM),496,Sunny,Highway,High
+2024-01-10,Wednesday,Ashulia,Afternoon (2:00 PM – 4:30 PM),409,Cloudy,Flyover,High
+2024-01-10,Wednesday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),361,Sunny,Commercial Street,Medium
+2024-01-10,Wednesday,Ashulia,Night (8:00 PM – 11:00 PM),336,Cloudy,Arterial Road,High
+2024-01-10,Wednesday,Ashulia,Late Night (11:00 PM – 5:00 AM),172,Sunny,Residential Street,Medium
+2024-01-10,Wednesday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),195,Sunny,Arterial Road,Medium
+2024-01-10,Wednesday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),276,Rainy,Flyover,High
+2024-01-10,Wednesday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),175,Sunny,Arterial Road,High
+2024-01-10,Wednesday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),181,Rainy,Commercial Street,Medium
+2024-01-10,Wednesday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),358,Rainy,Highway,High
+2024-01-10,Wednesday,Pragati Sarani,Night (8:00 PM – 11:00 PM),182,Cloudy,Highway,High
+2024-01-10,Wednesday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),472,Cloudy,Flyover,Medium
+2024-01-11,Thursday,Farmgate,Early Morning (5:00 AM – 7:30 AM),457,Cloudy,Commercial Street,Medium
+2024-01-11,Thursday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),332,Rainy,Highway,Medium
+2024-01-11,Thursday,Farmgate,Midday (10:30 AM – 2:00 PM),425,Cloudy,Highway,Low
+2024-01-11,Thursday,Farmgate,Afternoon (2:00 PM – 4:30 PM),176,Sunny,Flyover,High
+2024-01-11,Thursday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),268,Sunny,Arterial Road,Medium
+2024-01-11,Thursday,Farmgate,Night (8:00 PM – 11:00 PM),363,Rainy,Commercial Street,Low
+2024-01-11,Thursday,Farmgate,Late Night (11:00 PM – 5:00 AM),449,Rainy,Highway,Medium
+2024-01-11,Thursday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),209,Rainy,Commercial Street,Medium
+2024-01-11,Thursday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),232,Rainy,Flyover,Low
+2024-01-11,Thursday,Mohakhali,Midday (10:30 AM – 2:00 PM),227,Sunny,Arterial Road,High
+2024-01-11,Thursday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),497,Sunny,Entry Point,High
+2024-01-11,Thursday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),118,Rainy,Entry Point,Low
+2024-01-11,Thursday,Mohakhali,Night (8:00 PM – 11:00 PM),132,Rainy,Residential Street,Medium
+2024-01-11,Thursday,Mohakhali,Late Night (11:00 PM – 5:00 AM),481,Rainy,Flyover,Medium
+2024-01-11,Thursday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),464,Rainy,Commercial Street,High
+2024-01-11,Thursday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),348,Cloudy,Highway,Low
+2024-01-11,Thursday,Gulshan-2,Midday (10:30 AM – 2:00 PM),420,Rainy,Entry Point,Low
+2024-01-11,Thursday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),273,Sunny,Arterial Road,High
+2024-01-11,Thursday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),211,Cloudy,Residential Street,High
+2024-01-11,Thursday,Gulshan-2,Night (8:00 PM – 11:00 PM),293,Cloudy,Arterial Road,Low
+2024-01-11,Thursday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),355,Rainy,Commercial Street,Low
+2024-01-11,Thursday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),427,Cloudy,Highway,Low
+2024-01-11,Thursday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),281,Sunny,Residential Street,High
+2024-01-11,Thursday,Jatrabari,Midday (10:30 AM – 2:00 PM),290,Cloudy,Arterial Road,Low
+2024-01-11,Thursday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),323,Cloudy,Entry Point,Low
+2024-01-11,Thursday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),310,Sunny,Arterial Road,Low
+2024-01-11,Thursday,Jatrabari,Night (8:00 PM – 11:00 PM),211,Rainy,Arterial Road,Medium
+2024-01-11,Thursday,Jatrabari,Late Night (11:00 PM – 5:00 AM),469,Sunny,Arterial Road,High
+2024-01-11,Thursday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),437,Cloudy,Residential Street,High
+2024-01-11,Thursday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),210,Sunny,Flyover,Medium
+2024-01-11,Thursday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),104,Rainy,Entry Point,High
+2024-01-11,Thursday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),253,Sunny,Highway,High
+2024-01-11,Thursday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),347,Rainy,Entry Point,High
+2024-01-11,Thursday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),172,Rainy,Residential Street,Low
+2024-01-11,Thursday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),365,Rainy,Entry Point,Medium
+2024-01-11,Thursday,Motijheel,Early Morning (5:00 AM – 7:30 AM),172,Sunny,Entry Point,High
+2024-01-11,Thursday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),495,Sunny,Arterial Road,Medium
+2024-01-11,Thursday,Motijheel,Midday (10:30 AM – 2:00 PM),101,Sunny,Highway,High
+2024-01-11,Thursday,Motijheel,Afternoon (2:00 PM – 4:30 PM),408,Cloudy,Arterial Road,Medium
+2024-01-11,Thursday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),176,Cloudy,Entry Point,Low
+2024-01-11,Thursday,Motijheel,Night (8:00 PM – 11:00 PM),183,Cloudy,Residential Street,Low
+2024-01-11,Thursday,Motijheel,Late Night (11:00 PM – 5:00 AM),173,Sunny,Highway,Low
+2024-01-11,Thursday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),188,Cloudy,Flyover,High
+2024-01-11,Thursday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),203,Rainy,Residential Street,Medium
+2024-01-11,Thursday,Shahbagh,Midday (10:30 AM – 2:00 PM),222,Sunny,Flyover,Medium
+2024-01-11,Thursday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),156,Cloudy,Commercial Street,Low
+2024-01-11,Thursday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),228,Rainy,Residential Street,Low
+2024-01-11,Thursday,Shahbagh,Night (8:00 PM – 11:00 PM),128,Cloudy,Arterial Road,Medium
+2024-01-11,Thursday,Shahbagh,Late Night (11:00 PM – 5:00 AM),478,Rainy,Residential Street,High
+2024-01-11,Thursday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),465,Rainy,Highway,High
+2024-01-11,Thursday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),306,Cloudy,Highway,High
+2024-01-11,Thursday,Mirpur-10,Midday (10:30 AM – 2:00 PM),356,Sunny,Commercial Street,High
+2024-01-11,Thursday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),381,Sunny,Arterial Road,High
+2024-01-11,Thursday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),438,Sunny,Commercial Street,Low
+2024-01-11,Thursday,Mirpur-10,Night (8:00 PM – 11:00 PM),266,Sunny,Flyover,Medium
+2024-01-11,Thursday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),390,Cloudy,Entry Point,Low
+2024-01-11,Thursday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),446,Rainy,Commercial Street,High
+2024-01-11,Thursday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),112,Cloudy,Residential Street,Low
+2024-01-11,Thursday,Gabtoli,Midday (10:30 AM – 2:00 PM),267,Cloudy,Entry Point,Low
+2024-01-11,Thursday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),172,Rainy,Flyover,Low
+2024-01-11,Thursday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),438,Cloudy,Flyover,Medium
+2024-01-11,Thursday,Gabtoli,Night (8:00 PM – 11:00 PM),406,Rainy,Commercial Street,High
+2024-01-11,Thursday,Gabtoli,Late Night (11:00 PM – 5:00 AM),433,Sunny,Entry Point,Low
+2024-01-11,Thursday,Rampura,Early Morning (5:00 AM – 7:30 AM),249,Rainy,Flyover,High
+2024-01-11,Thursday,Rampura,Morning Rush (7:30 AM – 10:30 AM),169,Cloudy,Residential Street,Medium
+2024-01-11,Thursday,Rampura,Midday (10:30 AM – 2:00 PM),334,Sunny,Residential Street,Medium
+2024-01-11,Thursday,Rampura,Afternoon (2:00 PM – 4:30 PM),121,Rainy,Highway,High
+2024-01-11,Thursday,Rampura,Evening Rush (4:30 PM – 8:00 PM),425,Sunny,Residential Street,Medium
+2024-01-11,Thursday,Rampura,Night (8:00 PM – 11:00 PM),333,Rainy,Highway,Medium
+2024-01-11,Thursday,Rampura,Late Night (11:00 PM – 5:00 AM),451,Rainy,Highway,Low
+2024-01-11,Thursday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),205,Rainy,Flyover,Medium
+2024-01-11,Thursday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),294,Sunny,Commercial Street,Low
+2024-01-11,Thursday,Tejgaon,Midday (10:30 AM – 2:00 PM),431,Sunny,Highway,Low
+2024-01-11,Thursday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),151,Rainy,Entry Point,High
+2024-01-11,Thursday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),218,Sunny,Flyover,Low
+2024-01-11,Thursday,Tejgaon,Night (8:00 PM – 11:00 PM),223,Sunny,Commercial Street,Medium
+2024-01-11,Thursday,Tejgaon,Late Night (11:00 PM – 5:00 AM),203,Rainy,Highway,Low
+2024-01-11,Thursday,New Market,Early Morning (5:00 AM – 7:30 AM),143,Cloudy,Flyover,Low
+2024-01-11,Thursday,New Market,Morning Rush (7:30 AM – 10:30 AM),224,Sunny,Entry Point,High
+2024-01-11,Thursday,New Market,Midday (10:30 AM – 2:00 PM),235,Rainy,Flyover,High
+2024-01-11,Thursday,New Market,Afternoon (2:00 PM – 4:30 PM),341,Sunny,Highway,High
+2024-01-11,Thursday,New Market,Evening Rush (4:30 PM – 8:00 PM),491,Sunny,Commercial Street,Low
+2024-01-11,Thursday,New Market,Night (8:00 PM – 11:00 PM),364,Sunny,Commercial Street,Medium
+2024-01-11,Thursday,New Market,Late Night (11:00 PM – 5:00 AM),147,Rainy,Highway,High
+2024-01-11,Thursday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),334,Cloudy,Entry Point,Low
+2024-01-11,Thursday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),192,Cloudy,Residential Street,Low
+2024-01-11,Thursday,Dhanmondi,Midday (10:30 AM – 2:00 PM),430,Rainy,Flyover,High
+2024-01-11,Thursday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),383,Sunny,Highway,Low
+2024-01-11,Thursday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),276,Sunny,Residential Street,High
+2024-01-11,Thursday,Dhanmondi,Night (8:00 PM – 11:00 PM),431,Rainy,Highway,Medium
+2024-01-11,Thursday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),148,Rainy,Entry Point,High
+2024-01-11,Thursday,Paltan,Early Morning (5:00 AM – 7:30 AM),412,Sunny,Commercial Street,High
+2024-01-11,Thursday,Paltan,Morning Rush (7:30 AM – 10:30 AM),364,Cloudy,Flyover,Low
+2024-01-11,Thursday,Paltan,Midday (10:30 AM – 2:00 PM),302,Cloudy,Entry Point,High
+2024-01-11,Thursday,Paltan,Afternoon (2:00 PM – 4:30 PM),309,Sunny,Highway,Medium
+2024-01-11,Thursday,Paltan,Evening Rush (4:30 PM – 8:00 PM),167,Sunny,Residential Street,Low
+2024-01-11,Thursday,Paltan,Night (8:00 PM – 11:00 PM),450,Sunny,Flyover,High
+2024-01-11,Thursday,Paltan,Late Night (11:00 PM – 5:00 AM),407,Sunny,Commercial Street,Low
+2024-01-11,Thursday,Malibagh,Early Morning (5:00 AM – 7:30 AM),225,Cloudy,Commercial Street,High
+2024-01-11,Thursday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),128,Rainy,Highway,High
+2024-01-11,Thursday,Malibagh,Midday (10:30 AM – 2:00 PM),162,Sunny,Highway,Low
+2024-01-11,Thursday,Malibagh,Afternoon (2:00 PM – 4:30 PM),466,Rainy,Commercial Street,Low
+2024-01-11,Thursday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),421,Sunny,Highway,High
+2024-01-11,Thursday,Malibagh,Night (8:00 PM – 11:00 PM),333,Rainy,Entry Point,Medium
+2024-01-11,Thursday,Malibagh,Late Night (11:00 PM – 5:00 AM),499,Rainy,Commercial Street,Low
+2024-01-11,Thursday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),109,Cloudy,Residential Street,High
+2024-01-11,Thursday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),314,Rainy,Flyover,Medium
+2024-01-11,Thursday,Keraniganj,Midday (10:30 AM – 2:00 PM),425,Sunny,Flyover,Medium
+2024-01-11,Thursday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),416,Sunny,Flyover,High
+2024-01-11,Thursday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),322,Cloudy,Arterial Road,Low
+2024-01-11,Thursday,Keraniganj,Night (8:00 PM – 11:00 PM),451,Rainy,Flyover,Low
+2024-01-11,Thursday,Keraniganj,Late Night (11:00 PM – 5:00 AM),486,Sunny,Arterial Road,Low
+2024-01-11,Thursday,Tongi,Early Morning (5:00 AM – 7:30 AM),246,Sunny,Flyover,High
+2024-01-11,Thursday,Tongi,Morning Rush (7:30 AM – 10:30 AM),291,Sunny,Flyover,Low
+2024-01-11,Thursday,Tongi,Midday (10:30 AM – 2:00 PM),493,Sunny,Residential Street,Low
+2024-01-11,Thursday,Tongi,Afternoon (2:00 PM – 4:30 PM),178,Sunny,Highway,Low
+2024-01-11,Thursday,Tongi,Evening Rush (4:30 PM – 8:00 PM),331,Rainy,Flyover,High
+2024-01-11,Thursday,Tongi,Night (8:00 PM – 11:00 PM),336,Sunny,Arterial Road,Low
+2024-01-11,Thursday,Tongi,Late Night (11:00 PM – 5:00 AM),360,Sunny,Highway,Medium
+2024-01-11,Thursday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),120,Cloudy,Commercial Street,Low
+2024-01-11,Thursday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),354,Cloudy,Flyover,High
+2024-01-11,Thursday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),232,Sunny,Highway,Medium
+2024-01-11,Thursday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),133,Cloudy,Residential Street,Medium
+2024-01-11,Thursday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),456,Rainy,Highway,Low
+2024-01-11,Thursday,Savar Entry Point,Night (8:00 PM – 11:00 PM),440,Cloudy,Highway,High
+2024-01-11,Thursday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),474,Rainy,Residential Street,High
+2024-01-11,Thursday,Ashulia,Early Morning (5:00 AM – 7:30 AM),246,Rainy,Arterial Road,High
+2024-01-11,Thursday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),259,Cloudy,Arterial Road,Low
+2024-01-11,Thursday,Ashulia,Midday (10:30 AM – 2:00 PM),478,Cloudy,Arterial Road,High
+2024-01-11,Thursday,Ashulia,Afternoon (2:00 PM – 4:30 PM),413,Cloudy,Residential Street,Medium
+2024-01-11,Thursday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),293,Cloudy,Commercial Street,Medium
+2024-01-11,Thursday,Ashulia,Night (8:00 PM – 11:00 PM),357,Sunny,Flyover,Low
+2024-01-11,Thursday,Ashulia,Late Night (11:00 PM – 5:00 AM),207,Rainy,Residential Street,Medium
+2024-01-11,Thursday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),471,Sunny,Flyover,Medium
+2024-01-11,Thursday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),148,Cloudy,Commercial Street,Low
+2024-01-11,Thursday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),493,Rainy,Arterial Road,Low
+2024-01-11,Thursday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),410,Cloudy,Entry Point,Medium
+2024-01-11,Thursday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),370,Rainy,Commercial Street,Medium
+2024-01-11,Thursday,Pragati Sarani,Night (8:00 PM – 11:00 PM),314,Sunny,Flyover,Low
+2024-01-11,Thursday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),273,Cloudy,Residential Street,Low
+2024-01-12,Friday,Farmgate,Early Morning (5:00 AM – 7:30 AM),164,Rainy,Highway,Medium
+2024-01-12,Friday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),358,Sunny,Flyover,Medium
+2024-01-12,Friday,Farmgate,Midday (10:30 AM – 2:00 PM),194,Sunny,Residential Street,High
+2024-01-12,Friday,Farmgate,Afternoon (2:00 PM – 4:30 PM),182,Rainy,Residential Street,High
+2024-01-12,Friday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),125,Cloudy,Entry Point,High
+2024-01-12,Friday,Farmgate,Night (8:00 PM – 11:00 PM),496,Sunny,Entry Point,Medium
+2024-01-12,Friday,Farmgate,Late Night (11:00 PM – 5:00 AM),113,Rainy,Commercial Street,Medium
+2024-01-12,Friday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),488,Sunny,Commercial Street,Medium
+2024-01-12,Friday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),393,Rainy,Arterial Road,High
+2024-01-12,Friday,Mohakhali,Midday (10:30 AM – 2:00 PM),494,Sunny,Commercial Street,Low
+2024-01-12,Friday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),405,Rainy,Commercial Street,Low
+2024-01-12,Friday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),283,Rainy,Commercial Street,Medium
+2024-01-12,Friday,Mohakhali,Night (8:00 PM – 11:00 PM),149,Rainy,Arterial Road,Medium
+2024-01-12,Friday,Mohakhali,Late Night (11:00 PM – 5:00 AM),346,Sunny,Flyover,High
+2024-01-12,Friday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),201,Sunny,Commercial Street,High
+2024-01-12,Friday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),110,Cloudy,Highway,Low
+2024-01-12,Friday,Gulshan-2,Midday (10:30 AM – 2:00 PM),145,Cloudy,Residential Street,Medium
+2024-01-12,Friday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),394,Sunny,Highway,Medium
+2024-01-12,Friday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),183,Rainy,Entry Point,High
+2024-01-12,Friday,Gulshan-2,Night (8:00 PM – 11:00 PM),331,Sunny,Residential Street,Medium
+2024-01-12,Friday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),161,Cloudy,Entry Point,High
+2024-01-12,Friday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),330,Rainy,Entry Point,High
+2024-01-12,Friday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),163,Rainy,Arterial Road,Low
+2024-01-12,Friday,Jatrabari,Midday (10:30 AM – 2:00 PM),238,Cloudy,Entry Point,High
+2024-01-12,Friday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),378,Sunny,Flyover,Low
+2024-01-12,Friday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),448,Sunny,Flyover,Medium
+2024-01-12,Friday,Jatrabari,Night (8:00 PM – 11:00 PM),427,Cloudy,Residential Street,High
+2024-01-12,Friday,Jatrabari,Late Night (11:00 PM – 5:00 AM),141,Cloudy,Commercial Street,Medium
+2024-01-12,Friday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),331,Sunny,Arterial Road,Medium
+2024-01-12,Friday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),150,Sunny,Entry Point,High
+2024-01-12,Friday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),141,Rainy,Residential Street,Medium
+2024-01-12,Friday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),486,Cloudy,Flyover,Medium
+2024-01-12,Friday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),194,Cloudy,Flyover,High
+2024-01-12,Friday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),279,Cloudy,Arterial Road,Low
+2024-01-12,Friday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),167,Sunny,Flyover,High
+2024-01-12,Friday,Motijheel,Early Morning (5:00 AM – 7:30 AM),302,Cloudy,Entry Point,High
+2024-01-12,Friday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),484,Rainy,Residential Street,High
+2024-01-12,Friday,Motijheel,Midday (10:30 AM – 2:00 PM),270,Sunny,Highway,Low
+2024-01-12,Friday,Motijheel,Afternoon (2:00 PM – 4:30 PM),452,Cloudy,Commercial Street,Low
+2024-01-12,Friday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),241,Sunny,Highway,Medium
+2024-01-12,Friday,Motijheel,Night (8:00 PM – 11:00 PM),219,Sunny,Arterial Road,High
+2024-01-12,Friday,Motijheel,Late Night (11:00 PM – 5:00 AM),226,Rainy,Commercial Street,High
+2024-01-12,Friday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),216,Cloudy,Residential Street,Low
+2024-01-12,Friday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),465,Cloudy,Highway,High
+2024-01-12,Friday,Shahbagh,Midday (10:30 AM – 2:00 PM),108,Cloudy,Arterial Road,High
+2024-01-12,Friday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),240,Cloudy,Highway,Medium
+2024-01-12,Friday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),159,Sunny,Flyover,Medium
+2024-01-12,Friday,Shahbagh,Night (8:00 PM – 11:00 PM),241,Rainy,Flyover,Medium
+2024-01-12,Friday,Shahbagh,Late Night (11:00 PM – 5:00 AM),218,Rainy,Commercial Street,High
+2024-01-12,Friday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),326,Cloudy,Residential Street,Medium
+2024-01-12,Friday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),144,Cloudy,Commercial Street,Medium
+2024-01-12,Friday,Mirpur-10,Midday (10:30 AM – 2:00 PM),264,Cloudy,Commercial Street,Low
+2024-01-12,Friday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),426,Cloudy,Entry Point,High
+2024-01-12,Friday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),348,Rainy,Highway,Medium
+2024-01-12,Friday,Mirpur-10,Night (8:00 PM – 11:00 PM),245,Sunny,Flyover,High
+2024-01-12,Friday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),485,Cloudy,Commercial Street,Medium
+2024-01-12,Friday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),400,Cloudy,Highway,Medium
+2024-01-12,Friday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),305,Cloudy,Arterial Road,Medium
+2024-01-12,Friday,Gabtoli,Midday (10:30 AM – 2:00 PM),257,Rainy,Residential Street,High
+2024-01-12,Friday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),402,Cloudy,Arterial Road,High
+2024-01-12,Friday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),240,Rainy,Arterial Road,High
+2024-01-12,Friday,Gabtoli,Night (8:00 PM – 11:00 PM),434,Rainy,Residential Street,High
+2024-01-12,Friday,Gabtoli,Late Night (11:00 PM – 5:00 AM),361,Sunny,Entry Point,Low
+2024-01-12,Friday,Rampura,Early Morning (5:00 AM – 7:30 AM),221,Cloudy,Arterial Road,High
+2024-01-12,Friday,Rampura,Morning Rush (7:30 AM – 10:30 AM),114,Sunny,Highway,Medium
+2024-01-12,Friday,Rampura,Midday (10:30 AM – 2:00 PM),276,Rainy,Entry Point,Medium
+2024-01-12,Friday,Rampura,Afternoon (2:00 PM – 4:30 PM),146,Rainy,Arterial Road,High
+2024-01-12,Friday,Rampura,Evening Rush (4:30 PM – 8:00 PM),430,Cloudy,Flyover,Medium
+2024-01-12,Friday,Rampura,Night (8:00 PM – 11:00 PM),207,Rainy,Flyover,Low
+2024-01-12,Friday,Rampura,Late Night (11:00 PM – 5:00 AM),235,Rainy,Entry Point,High
+2024-01-12,Friday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),471,Cloudy,Residential Street,Low
+2024-01-12,Friday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),361,Rainy,Arterial Road,High
+2024-01-12,Friday,Tejgaon,Midday (10:30 AM – 2:00 PM),126,Rainy,Residential Street,High
+2024-01-12,Friday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),285,Cloudy,Commercial Street,High
+2024-01-12,Friday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),499,Cloudy,Highway,Medium
+2024-01-12,Friday,Tejgaon,Night (8:00 PM – 11:00 PM),290,Cloudy,Highway,High
+2024-01-12,Friday,Tejgaon,Late Night (11:00 PM – 5:00 AM),355,Rainy,Highway,Medium
+2024-01-12,Friday,New Market,Early Morning (5:00 AM – 7:30 AM),467,Cloudy,Commercial Street,Medium
+2024-01-12,Friday,New Market,Morning Rush (7:30 AM – 10:30 AM),170,Cloudy,Highway,Low
+2024-01-12,Friday,New Market,Midday (10:30 AM – 2:00 PM),354,Sunny,Arterial Road,High
+2024-01-12,Friday,New Market,Afternoon (2:00 PM – 4:30 PM),454,Rainy,Residential Street,Medium
+2024-01-12,Friday,New Market,Evening Rush (4:30 PM – 8:00 PM),218,Sunny,Entry Point,High
+2024-01-12,Friday,New Market,Night (8:00 PM – 11:00 PM),445,Rainy,Entry Point,Low
+2024-01-12,Friday,New Market,Late Night (11:00 PM – 5:00 AM),305,Cloudy,Residential Street,High
+2024-01-12,Friday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),387,Cloudy,Residential Street,Low
+2024-01-12,Friday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),311,Cloudy,Arterial Road,High
+2024-01-12,Friday,Dhanmondi,Midday (10:30 AM – 2:00 PM),436,Rainy,Commercial Street,Low
+2024-01-12,Friday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),303,Rainy,Flyover,Medium
+2024-01-12,Friday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),194,Rainy,Arterial Road,Medium
+2024-01-12,Friday,Dhanmondi,Night (8:00 PM – 11:00 PM),355,Sunny,Commercial Street,Low
+2024-01-12,Friday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),484,Sunny,Entry Point,Medium
+2024-01-12,Friday,Paltan,Early Morning (5:00 AM – 7:30 AM),383,Sunny,Entry Point,Low
+2024-01-12,Friday,Paltan,Morning Rush (7:30 AM – 10:30 AM),426,Cloudy,Flyover,Medium
+2024-01-12,Friday,Paltan,Midday (10:30 AM – 2:00 PM),294,Sunny,Entry Point,Medium
+2024-01-12,Friday,Paltan,Afternoon (2:00 PM – 4:30 PM),353,Cloudy,Arterial Road,Medium
+2024-01-12,Friday,Paltan,Evening Rush (4:30 PM – 8:00 PM),188,Rainy,Flyover,Low
+2024-01-12,Friday,Paltan,Night (8:00 PM – 11:00 PM),328,Sunny,Commercial Street,High
+2024-01-12,Friday,Paltan,Late Night (11:00 PM – 5:00 AM),479,Sunny,Arterial Road,Low
+2024-01-12,Friday,Malibagh,Early Morning (5:00 AM – 7:30 AM),243,Sunny,Flyover,Low
+2024-01-12,Friday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),468,Cloudy,Arterial Road,Medium
+2024-01-12,Friday,Malibagh,Midday (10:30 AM – 2:00 PM),435,Sunny,Residential Street,Medium
+2024-01-12,Friday,Malibagh,Afternoon (2:00 PM – 4:30 PM),484,Sunny,Commercial Street,High
+2024-01-12,Friday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),194,Cloudy,Arterial Road,High
+2024-01-12,Friday,Malibagh,Night (8:00 PM – 11:00 PM),222,Rainy,Residential Street,Medium
+2024-01-12,Friday,Malibagh,Late Night (11:00 PM – 5:00 AM),427,Sunny,Residential Street,Medium
+2024-01-12,Friday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),154,Cloudy,Flyover,High
+2024-01-12,Friday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),213,Rainy,Highway,High
+2024-01-12,Friday,Keraniganj,Midday (10:30 AM – 2:00 PM),446,Sunny,Flyover,Low
+2024-01-12,Friday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),209,Rainy,Arterial Road,Medium
+2024-01-12,Friday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),207,Cloudy,Entry Point,Low
+2024-01-12,Friday,Keraniganj,Night (8:00 PM – 11:00 PM),399,Sunny,Highway,Medium
+2024-01-12,Friday,Keraniganj,Late Night (11:00 PM – 5:00 AM),344,Cloudy,Entry Point,Medium
+2024-01-12,Friday,Tongi,Early Morning (5:00 AM – 7:30 AM),365,Sunny,Residential Street,Low
+2024-01-12,Friday,Tongi,Morning Rush (7:30 AM – 10:30 AM),357,Cloudy,Residential Street,Low
+2024-01-12,Friday,Tongi,Midday (10:30 AM – 2:00 PM),382,Cloudy,Entry Point,Medium
+2024-01-12,Friday,Tongi,Afternoon (2:00 PM – 4:30 PM),167,Rainy,Residential Street,High
+2024-01-12,Friday,Tongi,Evening Rush (4:30 PM – 8:00 PM),416,Sunny,Commercial Street,Medium
+2024-01-12,Friday,Tongi,Night (8:00 PM – 11:00 PM),213,Sunny,Entry Point,Medium
+2024-01-12,Friday,Tongi,Late Night (11:00 PM – 5:00 AM),122,Rainy,Highway,High
+2024-01-12,Friday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),397,Rainy,Flyover,Medium
+2024-01-12,Friday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),414,Rainy,Commercial Street,High
+2024-01-12,Friday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),120,Cloudy,Entry Point,Medium
+2024-01-12,Friday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),395,Cloudy,Flyover,Low
+2024-01-12,Friday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),350,Cloudy,Flyover,High
+2024-01-12,Friday,Savar Entry Point,Night (8:00 PM – 11:00 PM),471,Cloudy,Flyover,High
+2024-01-12,Friday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),224,Cloudy,Residential Street,Low
+2024-01-12,Friday,Ashulia,Early Morning (5:00 AM – 7:30 AM),301,Cloudy,Entry Point,Low
+2024-01-12,Friday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),252,Sunny,Entry Point,Medium
+2024-01-12,Friday,Ashulia,Midday (10:30 AM – 2:00 PM),426,Sunny,Commercial Street,High
+2024-01-12,Friday,Ashulia,Afternoon (2:00 PM – 4:30 PM),118,Sunny,Entry Point,Low
+2024-01-12,Friday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),490,Sunny,Entry Point,Medium
+2024-01-12,Friday,Ashulia,Night (8:00 PM – 11:00 PM),422,Cloudy,Entry Point,Low
+2024-01-12,Friday,Ashulia,Late Night (11:00 PM – 5:00 AM),366,Sunny,Commercial Street,High
+2024-01-12,Friday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),161,Rainy,Entry Point,Medium
+2024-01-12,Friday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),387,Rainy,Entry Point,High
+2024-01-12,Friday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),442,Cloudy,Arterial Road,Medium
+2024-01-12,Friday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),185,Cloudy,Arterial Road,High
+2024-01-12,Friday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),263,Rainy,Commercial Street,High
+2024-01-12,Friday,Pragati Sarani,Night (8:00 PM – 11:00 PM),128,Cloudy,Commercial Street,Low
+2024-01-12,Friday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),386,Cloudy,Arterial Road,High
+2024-01-13,Saturday,Farmgate,Early Morning (5:00 AM – 7:30 AM),112,Sunny,Residential Street,Low
+2024-01-13,Saturday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),259,Rainy,Flyover,Low
+2024-01-13,Saturday,Farmgate,Midday (10:30 AM – 2:00 PM),262,Rainy,Residential Street,Low
+2024-01-13,Saturday,Farmgate,Afternoon (2:00 PM – 4:30 PM),143,Sunny,Arterial Road,High
+2024-01-13,Saturday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),336,Sunny,Commercial Street,High
+2024-01-13,Saturday,Farmgate,Night (8:00 PM – 11:00 PM),326,Cloudy,Residential Street,High
+2024-01-13,Saturday,Farmgate,Late Night (11:00 PM – 5:00 AM),275,Sunny,Residential Street,Medium
+2024-01-13,Saturday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),246,Cloudy,Highway,Medium
+2024-01-13,Saturday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),440,Sunny,Commercial Street,Medium
+2024-01-13,Saturday,Mohakhali,Midday (10:30 AM – 2:00 PM),380,Rainy,Arterial Road,High
+2024-01-13,Saturday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),245,Sunny,Highway,Medium
+2024-01-13,Saturday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),146,Rainy,Entry Point,Low
+2024-01-13,Saturday,Mohakhali,Night (8:00 PM – 11:00 PM),227,Cloudy,Highway,High
+2024-01-13,Saturday,Mohakhali,Late Night (11:00 PM – 5:00 AM),307,Sunny,Commercial Street,High
+2024-01-13,Saturday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),437,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),183,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Gulshan-2,Midday (10:30 AM – 2:00 PM),200,Cloudy,Residential Street,Medium
+2024-01-13,Saturday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),369,Sunny,Flyover,Medium
+2024-01-13,Saturday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),318,Sunny,Highway,Low
+2024-01-13,Saturday,Gulshan-2,Night (8:00 PM – 11:00 PM),203,Sunny,Arterial Road,Low
+2024-01-13,Saturday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),145,Sunny,Arterial Road,High
+2024-01-13,Saturday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),362,Cloudy,Arterial Road,Medium
+2024-01-13,Saturday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),123,Rainy,Highway,Low
+2024-01-13,Saturday,Jatrabari,Midday (10:30 AM – 2:00 PM),357,Rainy,Flyover,High
+2024-01-13,Saturday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),231,Sunny,Flyover,Medium
+2024-01-13,Saturday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),461,Sunny,Residential Street,High
+2024-01-13,Saturday,Jatrabari,Night (8:00 PM – 11:00 PM),281,Rainy,Commercial Street,High
+2024-01-13,Saturday,Jatrabari,Late Night (11:00 PM – 5:00 AM),348,Rainy,Flyover,High
+2024-01-13,Saturday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),471,Rainy,Highway,Medium
+2024-01-13,Saturday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),477,Cloudy,Entry Point,Medium
+2024-01-13,Saturday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),455,Cloudy,Commercial Street,Medium
+2024-01-13,Saturday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),432,Rainy,Arterial Road,Medium
+2024-01-13,Saturday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),486,Cloudy,Residential Street,High
+2024-01-13,Saturday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),268,Rainy,Highway,High
+2024-01-13,Saturday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),113,Sunny,Highway,Medium
+2024-01-13,Saturday,Motijheel,Early Morning (5:00 AM – 7:30 AM),487,Sunny,Commercial Street,Low
+2024-01-13,Saturday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),376,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Motijheel,Midday (10:30 AM – 2:00 PM),494,Sunny,Highway,Medium
+2024-01-13,Saturday,Motijheel,Afternoon (2:00 PM – 4:30 PM),364,Cloudy,Arterial Road,Medium
+2024-01-13,Saturday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),239,Cloudy,Arterial Road,Medium
+2024-01-13,Saturday,Motijheel,Night (8:00 PM – 11:00 PM),228,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Motijheel,Late Night (11:00 PM – 5:00 AM),191,Sunny,Highway,Medium
+2024-01-13,Saturday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),449,Sunny,Flyover,Low
+2024-01-13,Saturday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),201,Sunny,Flyover,Medium
+2024-01-13,Saturday,Shahbagh,Midday (10:30 AM – 2:00 PM),146,Sunny,Arterial Road,High
+2024-01-13,Saturday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),191,Sunny,Highway,Medium
+2024-01-13,Saturday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),128,Rainy,Arterial Road,Medium
+2024-01-13,Saturday,Shahbagh,Night (8:00 PM – 11:00 PM),211,Sunny,Residential Street,Low
+2024-01-13,Saturday,Shahbagh,Late Night (11:00 PM – 5:00 AM),451,Rainy,Entry Point,High
+2024-01-13,Saturday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),215,Cloudy,Arterial Road,Medium
+2024-01-13,Saturday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),241,Sunny,Flyover,High
+2024-01-13,Saturday,Mirpur-10,Midday (10:30 AM – 2:00 PM),164,Cloudy,Arterial Road,High
+2024-01-13,Saturday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),380,Sunny,Residential Street,Low
+2024-01-13,Saturday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),149,Rainy,Commercial Street,Medium
+2024-01-13,Saturday,Mirpur-10,Night (8:00 PM – 11:00 PM),232,Cloudy,Residential Street,Medium
+2024-01-13,Saturday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),398,Cloudy,Flyover,Low
+2024-01-13,Saturday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),198,Cloudy,Entry Point,Low
+2024-01-13,Saturday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),391,Rainy,Arterial Road,Medium
+2024-01-13,Saturday,Gabtoli,Midday (10:30 AM – 2:00 PM),319,Rainy,Arterial Road,Low
+2024-01-13,Saturday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),148,Cloudy,Entry Point,High
+2024-01-13,Saturday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),140,Cloudy,Arterial Road,Medium
+2024-01-13,Saturday,Gabtoli,Night (8:00 PM – 11:00 PM),411,Sunny,Commercial Street,High
+2024-01-13,Saturday,Gabtoli,Late Night (11:00 PM – 5:00 AM),103,Rainy,Highway,Medium
+2024-01-13,Saturday,Rampura,Early Morning (5:00 AM – 7:30 AM),422,Rainy,Flyover,Medium
+2024-01-13,Saturday,Rampura,Morning Rush (7:30 AM – 10:30 AM),129,Cloudy,Flyover,High
+2024-01-13,Saturday,Rampura,Midday (10:30 AM – 2:00 PM),235,Rainy,Residential Street,Low
+2024-01-13,Saturday,Rampura,Afternoon (2:00 PM – 4:30 PM),418,Rainy,Entry Point,Low
+2024-01-13,Saturday,Rampura,Evening Rush (4:30 PM – 8:00 PM),182,Sunny,Entry Point,High
+2024-01-13,Saturday,Rampura,Night (8:00 PM – 11:00 PM),338,Sunny,Arterial Road,High
+2024-01-13,Saturday,Rampura,Late Night (11:00 PM – 5:00 AM),498,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),180,Rainy,Highway,Low
+2024-01-13,Saturday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),425,Cloudy,Commercial Street,High
+2024-01-13,Saturday,Tejgaon,Midday (10:30 AM – 2:00 PM),455,Cloudy,Highway,Medium
+2024-01-13,Saturday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),279,Cloudy,Residential Street,Medium
+2024-01-13,Saturday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),233,Cloudy,Entry Point,High
+2024-01-13,Saturday,Tejgaon,Night (8:00 PM – 11:00 PM),151,Sunny,Residential Street,Medium
+2024-01-13,Saturday,Tejgaon,Late Night (11:00 PM – 5:00 AM),495,Rainy,Commercial Street,Low
+2024-01-13,Saturday,New Market,Early Morning (5:00 AM – 7:30 AM),372,Cloudy,Flyover,Low
+2024-01-13,Saturday,New Market,Morning Rush (7:30 AM – 10:30 AM),373,Sunny,Highway,Low
+2024-01-13,Saturday,New Market,Midday (10:30 AM – 2:00 PM),375,Sunny,Flyover,Low
+2024-01-13,Saturday,New Market,Afternoon (2:00 PM – 4:30 PM),221,Cloudy,Residential Street,Low
+2024-01-13,Saturday,New Market,Evening Rush (4:30 PM – 8:00 PM),345,Sunny,Highway,Medium
+2024-01-13,Saturday,New Market,Night (8:00 PM – 11:00 PM),291,Sunny,Residential Street,Low
+2024-01-13,Saturday,New Market,Late Night (11:00 PM – 5:00 AM),408,Sunny,Commercial Street,High
+2024-01-13,Saturday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),157,Rainy,Arterial Road,High
+2024-01-13,Saturday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),407,Rainy,Flyover,Low
+2024-01-13,Saturday,Dhanmondi,Midday (10:30 AM – 2:00 PM),129,Rainy,Arterial Road,Medium
+2024-01-13,Saturday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),223,Cloudy,Residential Street,Medium
+2024-01-13,Saturday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),278,Sunny,Commercial Street,Low
+2024-01-13,Saturday,Dhanmondi,Night (8:00 PM – 11:00 PM),333,Cloudy,Flyover,Medium
+2024-01-13,Saturday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),288,Sunny,Highway,High
+2024-01-13,Saturday,Paltan,Early Morning (5:00 AM – 7:30 AM),117,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Paltan,Morning Rush (7:30 AM – 10:30 AM),250,Rainy,Commercial Street,High
+2024-01-13,Saturday,Paltan,Midday (10:30 AM – 2:00 PM),152,Cloudy,Arterial Road,High
+2024-01-13,Saturday,Paltan,Afternoon (2:00 PM – 4:30 PM),427,Rainy,Flyover,High
+2024-01-13,Saturday,Paltan,Evening Rush (4:30 PM – 8:00 PM),262,Sunny,Arterial Road,Low
+2024-01-13,Saturday,Paltan,Night (8:00 PM – 11:00 PM),373,Cloudy,Entry Point,High
+2024-01-13,Saturday,Paltan,Late Night (11:00 PM – 5:00 AM),179,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Malibagh,Early Morning (5:00 AM – 7:30 AM),218,Rainy,Commercial Street,High
+2024-01-13,Saturday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),321,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Malibagh,Midday (10:30 AM – 2:00 PM),157,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Malibagh,Afternoon (2:00 PM – 4:30 PM),187,Rainy,Entry Point,High
+2024-01-13,Saturday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),212,Rainy,Entry Point,High
+2024-01-13,Saturday,Malibagh,Night (8:00 PM – 11:00 PM),404,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Malibagh,Late Night (11:00 PM – 5:00 AM),338,Cloudy,Residential Street,Low
+2024-01-13,Saturday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),410,Cloudy,Commercial Street,High
+2024-01-13,Saturday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),480,Sunny,Commercial Street,High
+2024-01-13,Saturday,Keraniganj,Midday (10:30 AM – 2:00 PM),280,Cloudy,Arterial Road,Low
+2024-01-13,Saturday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),336,Sunny,Flyover,Medium
+2024-01-13,Saturday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),378,Sunny,Arterial Road,Low
+2024-01-13,Saturday,Keraniganj,Night (8:00 PM – 11:00 PM),395,Sunny,Residential Street,Medium
+2024-01-13,Saturday,Keraniganj,Late Night (11:00 PM – 5:00 AM),225,Sunny,Arterial Road,Medium
+2024-01-13,Saturday,Tongi,Early Morning (5:00 AM – 7:30 AM),121,Rainy,Arterial Road,Medium
+2024-01-13,Saturday,Tongi,Morning Rush (7:30 AM – 10:30 AM),302,Rainy,Flyover,High
+2024-01-13,Saturday,Tongi,Midday (10:30 AM – 2:00 PM),488,Sunny,Highway,Low
+2024-01-13,Saturday,Tongi,Afternoon (2:00 PM – 4:30 PM),469,Cloudy,Residential Street,Low
+2024-01-13,Saturday,Tongi,Evening Rush (4:30 PM – 8:00 PM),366,Rainy,Highway,Medium
+2024-01-13,Saturday,Tongi,Night (8:00 PM – 11:00 PM),340,Rainy,Highway,Low
+2024-01-13,Saturday,Tongi,Late Night (11:00 PM – 5:00 AM),108,Cloudy,Arterial Road,High
+2024-01-13,Saturday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),491,Sunny,Arterial Road,Low
+2024-01-13,Saturday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),438,Cloudy,Flyover,High
+2024-01-13,Saturday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),387,Rainy,Residential Street,Low
+2024-01-13,Saturday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),218,Sunny,Commercial Street,Medium
+2024-01-13,Saturday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),172,Rainy,Arterial Road,Low
+2024-01-13,Saturday,Savar Entry Point,Night (8:00 PM – 11:00 PM),386,Rainy,Highway,Medium
+2024-01-13,Saturday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),402,Sunny,Arterial Road,Low
+2024-01-13,Saturday,Ashulia,Early Morning (5:00 AM – 7:30 AM),345,Rainy,Flyover,Low
+2024-01-13,Saturday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),425,Sunny,Residential Street,High
+2024-01-13,Saturday,Ashulia,Midday (10:30 AM – 2:00 PM),407,Cloudy,Commercial Street,Low
+2024-01-13,Saturday,Ashulia,Afternoon (2:00 PM – 4:30 PM),322,Sunny,Highway,Medium
+2024-01-13,Saturday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),315,Sunny,Flyover,Low
+2024-01-13,Saturday,Ashulia,Night (8:00 PM – 11:00 PM),120,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Ashulia,Late Night (11:00 PM – 5:00 AM),247,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),439,Cloudy,Commercial Street,Low
+2024-01-13,Saturday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),383,Sunny,Arterial Road,Medium
+2024-01-13,Saturday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),250,Rainy,Highway,Low
+2024-01-13,Saturday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),277,Rainy,Arterial Road,High
+2024-01-13,Saturday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),366,Rainy,Residential Street,Medium
+2024-01-13,Saturday,Pragati Sarani,Night (8:00 PM – 11:00 PM),292,Rainy,Residential Street,Low
+2024-01-13,Saturday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),475,Rainy,Entry Point,High
+2024-01-14,Sunday,Farmgate,Early Morning (5:00 AM – 7:30 AM),358,Cloudy,Commercial Street,High
+2024-01-14,Sunday,Farmgate,Morning Rush (7:30 AM – 10:30 AM),161,Cloudy,Residential Street,Medium
+2024-01-14,Sunday,Farmgate,Midday (10:30 AM – 2:00 PM),254,Sunny,Entry Point,Low
+2024-01-14,Sunday,Farmgate,Afternoon (2:00 PM – 4:30 PM),145,Sunny,Highway,Medium
+2024-01-14,Sunday,Farmgate,Evening Rush (4:30 PM – 8:00 PM),323,Sunny,Arterial Road,High
+2024-01-14,Sunday,Farmgate,Night (8:00 PM – 11:00 PM),424,Sunny,Flyover,Low
+2024-01-14,Sunday,Farmgate,Late Night (11:00 PM – 5:00 AM),158,Cloudy,Entry Point,Low
+2024-01-14,Sunday,Mohakhali,Early Morning (5:00 AM – 7:30 AM),258,Cloudy,Arterial Road,Low
+2024-01-14,Sunday,Mohakhali,Morning Rush (7:30 AM – 10:30 AM),121,Cloudy,Entry Point,High
+2024-01-14,Sunday,Mohakhali,Midday (10:30 AM – 2:00 PM),328,Rainy,Flyover,Medium
+2024-01-14,Sunday,Mohakhali,Afternoon (2:00 PM – 4:30 PM),485,Cloudy,Highway,Medium
+2024-01-14,Sunday,Mohakhali,Evening Rush (4:30 PM – 8:00 PM),320,Sunny,Commercial Street,Medium
+2024-01-14,Sunday,Mohakhali,Night (8:00 PM – 11:00 PM),373,Rainy,Flyover,Medium
+2024-01-14,Sunday,Mohakhali,Late Night (11:00 PM – 5:00 AM),280,Sunny,Residential Street,Medium
+2024-01-14,Sunday,Gulshan-2,Early Morning (5:00 AM – 7:30 AM),216,Cloudy,Entry Point,Low
+2024-01-14,Sunday,Gulshan-2,Morning Rush (7:30 AM – 10:30 AM),218,Rainy,Residential Street,High
+2024-01-14,Sunday,Gulshan-2,Midday (10:30 AM – 2:00 PM),407,Cloudy,Commercial Street,High
+2024-01-14,Sunday,Gulshan-2,Afternoon (2:00 PM – 4:30 PM),285,Sunny,Entry Point,High
+2024-01-14,Sunday,Gulshan-2,Evening Rush (4:30 PM – 8:00 PM),110,Cloudy,Commercial Street,Low
+2024-01-14,Sunday,Gulshan-2,Night (8:00 PM – 11:00 PM),187,Rainy,Entry Point,Medium
+2024-01-14,Sunday,Gulshan-2,Late Night (11:00 PM – 5:00 AM),104,Cloudy,Arterial Road,High
+2024-01-14,Sunday,Jatrabari,Early Morning (5:00 AM – 7:30 AM),317,Rainy,Arterial Road,Low
+2024-01-14,Sunday,Jatrabari,Morning Rush (7:30 AM – 10:30 AM),486,Rainy,Arterial Road,High
+2024-01-14,Sunday,Jatrabari,Midday (10:30 AM – 2:00 PM),293,Cloudy,Entry Point,High
+2024-01-14,Sunday,Jatrabari,Afternoon (2:00 PM – 4:30 PM),388,Sunny,Commercial Street,High
+2024-01-14,Sunday,Jatrabari,Evening Rush (4:30 PM – 8:00 PM),330,Cloudy,Highway,High
+2024-01-14,Sunday,Jatrabari,Night (8:00 PM – 11:00 PM),459,Sunny,Entry Point,Medium
+2024-01-14,Sunday,Jatrabari,Late Night (11:00 PM – 5:00 AM),194,Cloudy,Arterial Road,Medium
+2024-01-14,Sunday,Uttara Sector 7,Early Morning (5:00 AM – 7:30 AM),186,Sunny,Commercial Street,Low
+2024-01-14,Sunday,Uttara Sector 7,Morning Rush (7:30 AM – 10:30 AM),487,Cloudy,Commercial Street,High
+2024-01-14,Sunday,Uttara Sector 7,Midday (10:30 AM – 2:00 PM),286,Cloudy,Flyover,Medium
+2024-01-14,Sunday,Uttara Sector 7,Afternoon (2:00 PM – 4:30 PM),317,Rainy,Entry Point,Low
+2024-01-14,Sunday,Uttara Sector 7,Evening Rush (4:30 PM – 8:00 PM),469,Sunny,Entry Point,Medium
+2024-01-14,Sunday,Uttara Sector 7,Night (8:00 PM – 11:00 PM),132,Sunny,Flyover,High
+2024-01-14,Sunday,Uttara Sector 7,Late Night (11:00 PM – 5:00 AM),334,Cloudy,Highway,High
+2024-01-14,Sunday,Motijheel,Early Morning (5:00 AM – 7:30 AM),177,Cloudy,Arterial Road,Medium
+2024-01-14,Sunday,Motijheel,Morning Rush (7:30 AM – 10:30 AM),447,Cloudy,Commercial Street,Medium
+2024-01-14,Sunday,Motijheel,Midday (10:30 AM – 2:00 PM),280,Cloudy,Commercial Street,Medium
+2024-01-14,Sunday,Motijheel,Afternoon (2:00 PM – 4:30 PM),109,Sunny,Highway,Low
+2024-01-14,Sunday,Motijheel,Evening Rush (4:30 PM – 8:00 PM),466,Rainy,Residential Street,High
+2024-01-14,Sunday,Motijheel,Night (8:00 PM – 11:00 PM),316,Rainy,Arterial Road,High
+2024-01-14,Sunday,Motijheel,Late Night (11:00 PM – 5:00 AM),420,Cloudy,Flyover,Low
+2024-01-14,Sunday,Shahbagh,Early Morning (5:00 AM – 7:30 AM),369,Cloudy,Highway,Low
+2024-01-14,Sunday,Shahbagh,Morning Rush (7:30 AM – 10:30 AM),231,Sunny,Flyover,High
+2024-01-14,Sunday,Shahbagh,Midday (10:30 AM – 2:00 PM),492,Sunny,Arterial Road,Medium
+2024-01-14,Sunday,Shahbagh,Afternoon (2:00 PM – 4:30 PM),277,Rainy,Flyover,High
+2024-01-14,Sunday,Shahbagh,Evening Rush (4:30 PM – 8:00 PM),319,Sunny,Highway,Medium
+2024-01-14,Sunday,Shahbagh,Night (8:00 PM – 11:00 PM),350,Rainy,Flyover,High
+2024-01-14,Sunday,Shahbagh,Late Night (11:00 PM – 5:00 AM),459,Sunny,Entry Point,High
+2024-01-14,Sunday,Mirpur-10,Early Morning (5:00 AM – 7:30 AM),104,Cloudy,Flyover,Medium
+2024-01-14,Sunday,Mirpur-10,Morning Rush (7:30 AM – 10:30 AM),488,Cloudy,Highway,Low
+2024-01-14,Sunday,Mirpur-10,Midday (10:30 AM – 2:00 PM),352,Cloudy,Highway,High
+2024-01-14,Sunday,Mirpur-10,Afternoon (2:00 PM – 4:30 PM),214,Rainy,Residential Street,Medium
+2024-01-14,Sunday,Mirpur-10,Evening Rush (4:30 PM – 8:00 PM),499,Sunny,Commercial Street,Low
+2024-01-14,Sunday,Mirpur-10,Night (8:00 PM – 11:00 PM),205,Sunny,Entry Point,Medium
+2024-01-14,Sunday,Mirpur-10,Late Night (11:00 PM – 5:00 AM),252,Rainy,Highway,Low
+2024-01-14,Sunday,Gabtoli,Early Morning (5:00 AM – 7:30 AM),490,Cloudy,Flyover,Low
+2024-01-14,Sunday,Gabtoli,Morning Rush (7:30 AM – 10:30 AM),450,Cloudy,Flyover,High
+2024-01-14,Sunday,Gabtoli,Midday (10:30 AM – 2:00 PM),329,Sunny,Highway,High
+2024-01-14,Sunday,Gabtoli,Afternoon (2:00 PM – 4:30 PM),400,Cloudy,Commercial Street,Medium
+2024-01-14,Sunday,Gabtoli,Evening Rush (4:30 PM – 8:00 PM),176,Sunny,Flyover,High
+2024-01-14,Sunday,Gabtoli,Night (8:00 PM – 11:00 PM),156,Rainy,Highway,Low
+2024-01-14,Sunday,Gabtoli,Late Night (11:00 PM – 5:00 AM),291,Cloudy,Arterial Road,High
+2024-01-14,Sunday,Rampura,Early Morning (5:00 AM – 7:30 AM),482,Sunny,Entry Point,Low
+2024-01-14,Sunday,Rampura,Morning Rush (7:30 AM – 10:30 AM),194,Sunny,Commercial Street,Medium
+2024-01-14,Sunday,Rampura,Midday (10:30 AM – 2:00 PM),250,Rainy,Arterial Road,Low
+2024-01-14,Sunday,Rampura,Afternoon (2:00 PM – 4:30 PM),178,Sunny,Flyover,Medium
+2024-01-14,Sunday,Rampura,Evening Rush (4:30 PM – 8:00 PM),478,Rainy,Entry Point,Low
+2024-01-14,Sunday,Rampura,Night (8:00 PM – 11:00 PM),190,Cloudy,Highway,Medium
+2024-01-14,Sunday,Rampura,Late Night (11:00 PM – 5:00 AM),414,Cloudy,Highway,Low
+2024-01-14,Sunday,Tejgaon,Early Morning (5:00 AM – 7:30 AM),417,Cloudy,Highway,Medium
+2024-01-14,Sunday,Tejgaon,Morning Rush (7:30 AM – 10:30 AM),269,Sunny,Commercial Street,Low
+2024-01-14,Sunday,Tejgaon,Midday (10:30 AM – 2:00 PM),185,Sunny,Commercial Street,High
+2024-01-14,Sunday,Tejgaon,Afternoon (2:00 PM – 4:30 PM),283,Sunny,Commercial Street,Medium
+2024-01-14,Sunday,Tejgaon,Evening Rush (4:30 PM – 8:00 PM),149,Cloudy,Entry Point,Low
+2024-01-14,Sunday,Tejgaon,Night (8:00 PM – 11:00 PM),378,Cloudy,Highway,High
+2024-01-14,Sunday,Tejgaon,Late Night (11:00 PM – 5:00 AM),320,Rainy,Flyover,High
+2024-01-14,Sunday,New Market,Early Morning (5:00 AM – 7:30 AM),408,Cloudy,Highway,Low
+2024-01-14,Sunday,New Market,Morning Rush (7:30 AM – 10:30 AM),286,Rainy,Commercial Street,High
+2024-01-14,Sunday,New Market,Midday (10:30 AM – 2:00 PM),453,Rainy,Highway,Low
+2024-01-14,Sunday,New Market,Afternoon (2:00 PM – 4:30 PM),284,Rainy,Flyover,Medium
+2024-01-14,Sunday,New Market,Evening Rush (4:30 PM – 8:00 PM),384,Cloudy,Entry Point,High
+2024-01-14,Sunday,New Market,Night (8:00 PM – 11:00 PM),183,Cloudy,Entry Point,Medium
+2024-01-14,Sunday,New Market,Late Night (11:00 PM – 5:00 AM),474,Sunny,Entry Point,Low
+2024-01-14,Sunday,Dhanmondi,Early Morning (5:00 AM – 7:30 AM),181,Sunny,Commercial Street,Medium
+2024-01-14,Sunday,Dhanmondi,Morning Rush (7:30 AM – 10:30 AM),449,Sunny,Commercial Street,Low
+2024-01-14,Sunday,Dhanmondi,Midday (10:30 AM – 2:00 PM),228,Rainy,Arterial Road,High
+2024-01-14,Sunday,Dhanmondi,Afternoon (2:00 PM – 4:30 PM),263,Rainy,Flyover,High
+2024-01-14,Sunday,Dhanmondi,Evening Rush (4:30 PM – 8:00 PM),315,Rainy,Flyover,High
+2024-01-14,Sunday,Dhanmondi,Night (8:00 PM – 11:00 PM),492,Rainy,Arterial Road,Medium
+2024-01-14,Sunday,Dhanmondi,Late Night (11:00 PM – 5:00 AM),307,Cloudy,Flyover,High
+2024-01-14,Sunday,Paltan,Early Morning (5:00 AM – 7:30 AM),399,Rainy,Flyover,High
+2024-01-14,Sunday,Paltan,Morning Rush (7:30 AM – 10:30 AM),196,Sunny,Residential Street,Low
+2024-01-14,Sunday,Paltan,Midday (10:30 AM – 2:00 PM),204,Cloudy,Residential Street,Low
+2024-01-14,Sunday,Paltan,Afternoon (2:00 PM – 4:30 PM),427,Sunny,Flyover,Low
+2024-01-14,Sunday,Paltan,Evening Rush (4:30 PM – 8:00 PM),363,Cloudy,Arterial Road,Low
+2024-01-14,Sunday,Paltan,Night (8:00 PM – 11:00 PM),443,Rainy,Entry Point,Low
+2024-01-14,Sunday,Paltan,Late Night (11:00 PM – 5:00 AM),115,Cloudy,Residential Street,Medium
+2024-01-14,Sunday,Malibagh,Early Morning (5:00 AM – 7:30 AM),357,Rainy,Commercial Street,High
+2024-01-14,Sunday,Malibagh,Morning Rush (7:30 AM – 10:30 AM),435,Cloudy,Arterial Road,Low
+2024-01-14,Sunday,Malibagh,Midday (10:30 AM – 2:00 PM),194,Rainy,Flyover,High
+2024-01-14,Sunday,Malibagh,Afternoon (2:00 PM – 4:30 PM),419,Rainy,Commercial Street,High
+2024-01-14,Sunday,Malibagh,Evening Rush (4:30 PM – 8:00 PM),418,Sunny,Highway,Medium
+2024-01-14,Sunday,Malibagh,Night (8:00 PM – 11:00 PM),118,Rainy,Highway,High
+2024-01-14,Sunday,Malibagh,Late Night (11:00 PM – 5:00 AM),278,Rainy,Highway,Low
+2024-01-14,Sunday,Keraniganj,Early Morning (5:00 AM – 7:30 AM),472,Sunny,Arterial Road,Medium
+2024-01-14,Sunday,Keraniganj,Morning Rush (7:30 AM – 10:30 AM),432,Sunny,Highway,High
+2024-01-14,Sunday,Keraniganj,Midday (10:30 AM – 2:00 PM),265,Sunny,Arterial Road,Medium
+2024-01-14,Sunday,Keraniganj,Afternoon (2:00 PM – 4:30 PM),329,Cloudy,Residential Street,High
+2024-01-14,Sunday,Keraniganj,Evening Rush (4:30 PM – 8:00 PM),105,Cloudy,Entry Point,Low
+2024-01-14,Sunday,Keraniganj,Night (8:00 PM – 11:00 PM),379,Rainy,Residential Street,High
+2024-01-14,Sunday,Keraniganj,Late Night (11:00 PM – 5:00 AM),474,Rainy,Commercial Street,Medium
+2024-01-14,Sunday,Tongi,Early Morning (5:00 AM – 7:30 AM),291,Cloudy,Residential Street,Medium
+2024-01-14,Sunday,Tongi,Morning Rush (7:30 AM – 10:30 AM),359,Cloudy,Highway,Medium
+2024-01-14,Sunday,Tongi,Midday (10:30 AM – 2:00 PM),188,Sunny,Flyover,High
+2024-01-14,Sunday,Tongi,Afternoon (2:00 PM – 4:30 PM),362,Rainy,Commercial Street,High
+2024-01-14,Sunday,Tongi,Evening Rush (4:30 PM – 8:00 PM),226,Rainy,Arterial Road,Low
+2024-01-14,Sunday,Tongi,Night (8:00 PM – 11:00 PM),293,Sunny,Flyover,High
+2024-01-14,Sunday,Tongi,Late Night (11:00 PM – 5:00 AM),340,Rainy,Entry Point,Medium
+2024-01-14,Sunday,Savar Entry Point,Early Morning (5:00 AM – 7:30 AM),364,Sunny,Commercial Street,Low
+2024-01-14,Sunday,Savar Entry Point,Morning Rush (7:30 AM – 10:30 AM),464,Cloudy,Commercial Street,Low
+2024-01-14,Sunday,Savar Entry Point,Midday (10:30 AM – 2:00 PM),303,Sunny,Arterial Road,Low
+2024-01-14,Sunday,Savar Entry Point,Afternoon (2:00 PM – 4:30 PM),320,Sunny,Commercial Street,Medium
+2024-01-14,Sunday,Savar Entry Point,Evening Rush (4:30 PM – 8:00 PM),465,Sunny,Arterial Road,High
+2024-01-14,Sunday,Savar Entry Point,Night (8:00 PM – 11:00 PM),454,Rainy,Residential Street,Medium
+2024-01-14,Sunday,Savar Entry Point,Late Night (11:00 PM – 5:00 AM),147,Rainy,Entry Point,Medium
+2024-01-14,Sunday,Ashulia,Early Morning (5:00 AM – 7:30 AM),267,Rainy,Commercial Street,High
+2024-01-14,Sunday,Ashulia,Morning Rush (7:30 AM – 10:30 AM),348,Sunny,Arterial Road,Medium
+2024-01-14,Sunday,Ashulia,Midday (10:30 AM – 2:00 PM),427,Sunny,Commercial Street,High
+2024-01-14,Sunday,Ashulia,Afternoon (2:00 PM – 4:30 PM),464,Sunny,Flyover,High
+2024-01-14,Sunday,Ashulia,Evening Rush (4:30 PM – 8:00 PM),209,Cloudy,Highway,High
+2024-01-14,Sunday,Ashulia,Night (8:00 PM – 11:00 PM),457,Rainy,Highway,Low
+2024-01-14,Sunday,Ashulia,Late Night (11:00 PM – 5:00 AM),109,Cloudy,Highway,Medium
+2024-01-14,Sunday,Pragati Sarani,Early Morning (5:00 AM – 7:30 AM),439,Rainy,Highway,Medium
+2024-01-14,Sunday,Pragati Sarani,Morning Rush (7:30 AM – 10:30 AM),138,Sunny,Entry Point,Medium
+2024-01-14,Sunday,Pragati Sarani,Midday (10:30 AM – 2:00 PM),402,Rainy,Flyover,High
+2024-01-14,Sunday,Pragati Sarani,Afternoon (2:00 PM – 4:30 PM),330,Sunny,Entry Point,Medium
+2024-01-14,Sunday,Pragati Sarani,Evening Rush (4:30 PM – 8:00 PM),394,Cloudy,Entry Point,Medium
+2024-01-14,Sunday,Pragati Sarani,Night (8:00 PM – 11:00 PM),417,Sunny,Arterial Road,High
+2024-01-14,Sunday,Pragati Sarani,Late Night (11:00 PM – 5:00 AM),227,Sunny,Flyover,Medium
