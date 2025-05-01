@@ -29,6 +29,7 @@ This dataset has been designed to reflect **realistic banking behavior** with se
 - **Descriptive Analysis**: Identify top branches, customer trends, income distribution.
 - **Time Series Analysis**: Detect seasonality in transaction and digital usage.
 - **Cohort & Funnel Analysis**: Analyze digital onboarding or loan repayment behavior.
+- **Fraud Detection**: Fraudulant Transaction Analysis based on anomalies.
 
 ### 🧠 Machine Learning & Data Projects
 
