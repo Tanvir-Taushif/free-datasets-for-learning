@@ -13,12 +13,13 @@ These datasets are modified to follow real-life patterns, and they are designed 
 
 Here is a description of the available datasets:
 
-| Dataset Name            | Description                                          | Data Type       |
-|-------------------------|------------------------------------------------------|-----------------|
-| **[Dhaka Dengue Dataset](./Dhaka%20Dengue%20Dataset/)** | A real-world dataset on Dengue fever in Dhaka, Bangladesh, capturing demographic, geographic, and diagnostic test data to analyze infection patterns and risk factors. | CSV      |
-| **[Dhaka Traffic Dataset](./Dhaka%20Traffic%20Dataset/)** | A demo dataset containing traffic data from Dhaka city, following real-life patterns. | CSV, JSON       |
-| **[Dream Supershop Dataset](./Dream%20Supershop%20Dataset/)** | A demo dataset simulating customer, product, and sales data for a fictional retail business. | Excel |
-| **[Road Accident Dataset](./Road%20Accident%20Dataset/)** | A comprehensive dataset containing 307,974 records of road accidents with detailed information on accident severity, location, weather conditions, and road characteristics for data analysis and research purposes. | Excel |
+| Dataset Name                                                                                         | Description                                                                                                                                            | Data Type       |
+|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **[Banking Dataset (HSBC Bank, Bangladesh)](./Banking%20Dataset%20Dummy%20(HSBC%20Bank%2C%20Bangladesh)/)** | A synthetic banking dataset with customer, account, loan, transaction, and digital usage data including realistic seasonality and fraud simulation logic. | CSV, Excel      |
+| **[Dhaka Dengue Dataset](./Dhaka%20Dengue%20Dataset/)**                                              | A real-world dataset on Dengue fever in Dhaka, Bangladesh, capturing demographic, geographic, and diagnostic test data to analyze infection patterns and risk factors. | CSV             |
+| **[Dhaka Traffic Dataset](./Dhaka%20Traffic%20Dataset/)**                                            | A demo dataset containing traffic data from Dhaka city, following real-life patterns.                                                                 | CSV, JSON       |
+| **[Dream Supershop Dataset](./Dream%20Supershop%20Dataset/)**                                        | A demo dataset simulating customer, product, and sales data for a fictional retail business.                                                          | Excel           |
+| **[Road Accident Dataset](./Road%20Accident%20Dataset/)**                                            | A comprehensive dataset containing 307,974 records of road accidents with detailed information on accident severity, location, weather conditions, and road characteristics for data analysis and research purposes. | Excel           |
 
 Each dataset is designed to be a useful resource for practicing various data analysis techniques, from basic exploration to advanced machine learning applications.
 
