@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Launch_Date,Status
+PRD001,Debit card,8/24/2010,Active
+PRD002,Credit card,10/9/2011,Active
+PRD003,Personal loan,8/17/2012,Active
+PRD004,Business loan,5/16/2013,Active
+PRD005,Savings Account,9/22/2014,Active
+PRD006,Current Account,4/24/2015,Active
+PRD007,Term Deposit,12/17/2016,Active
+PRD008,Foreign Account,6/10/2017,Active
+PRD009,Insurance,5/7/2018,Active
+PRD010,LC,10/28/2019,Active
