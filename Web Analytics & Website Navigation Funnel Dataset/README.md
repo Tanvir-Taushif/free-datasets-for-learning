@@ -151,7 +151,7 @@ This dataset supports a wide range of **analytics and data science use cases**:
 ## Author  
 
 **Tanvir Taushif** - Data Analyst & Data Science Enthusiast  
-📩 Contact: [Your Email or LinkedIn](your_linkedin_profile)  
+📩 Contact: [LinkedIn](https://www.linkedin.com/in/tanvir-taushif-751044204/)  
 
 ---
 
