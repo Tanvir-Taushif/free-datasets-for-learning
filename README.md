@@ -21,6 +21,7 @@ Here is a description of the available datasets:
 | **[Dream Supershop Dataset](./Dream%20Supershop%20Dataset/)**                                        | A demo dataset simulating customer, product, and sales data for a fictional retail business.                                                          | Excel           |
 | **[Road Accident Dataset](./Road%20Accident%20Dataset/)**                                            | A comprehensive dataset containing 307,974 records of road accidents with detailed information on accident severity, location, weather conditions, and road characteristics for data analysis and research purposes. | Excel           |
 | **[SK Mart Retail Shop Data](./SK%20Mart%20Retail%20Shop%20Data/)**                                  | A structured retail dataset simulating orders, products, customers, and marketing data for SQL-based analysis.                                        | SQL       |
+| **[Website Navigation Funnel Dataset](./Web%20Analytics%20%26%20Website%20Navigation%20Funnel%20Dataset/)**                                  | An demo e-commerce dataset to pratice website navigation funnel and web analytics.                                        | CSV       |
 
 Each dataset is designed to be a useful resource for practicing various data analysis techniques, from basic exploration to advanced machine learning applications.
 
